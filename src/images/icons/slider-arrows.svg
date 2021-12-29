@@ -1,0 +1,8 @@
+<svg width="0" height="0" style="display: none;">
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="slide-left">
+    <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16.34 20.59 7.66 11.9l8.48-8.49"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="slide-right">
+    <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m7.66 3.41 8.68 8.69-8.48 8.49"></path>
+  </symbol>
+</svg>

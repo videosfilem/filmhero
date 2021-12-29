@@ -1,0 +1,87 @@
+[
+  {
+    "title": "Legends",
+    "id": "/films?collections=Legends",
+    "poster": "terminator_2"
+  },
+  {
+    "title": "Pixar",
+    "id": "/films?production=Pixar Animation",
+    "poster": "wall_e"
+  },
+  {
+    "title": "Space Adventures",
+    "id": "/films?collections=Space Adventures",
+    "poster": "interstellar"
+  },
+  {
+    "title": "Invaders",
+    "id": "/films?collections=Invaders",
+    "poster": "independence_day"
+  },
+  {
+    "title": "Cars and Speed",
+    "id": "/films?collections=Cars and Speed",
+    "poster": "fast_and_furious_6"
+  },
+  {
+    "title": "Dystopia",
+    "id": "/films?collections=Dystopia",
+    "poster": "maze_runner_1"
+  },
+  {
+    "title": "Mysteries of the Past",
+    "id": "/films?collections=Mysteries of the Past",
+    "poster": "mummy_1"
+  },
+  {
+    "title": "The World of Future",
+    "id": "/films?collections=The World of Future",
+    "poster": "matrix_1"
+  },
+  {
+    "title": "Robots",
+    "id": "/films?collections=Robots",
+    "poster": "i_robot"
+  },
+  {
+    "title": "Fantasy World",
+    "id": "/films?collections=Fantasy World",
+    "poster": "percy_jackson"
+  },
+  {
+    "title": "Real Life",
+    "id": "/films?collections=Real Life",
+    "poster": "walk"
+  },
+  {
+    "title": "Superpower",
+    "id": "/films?collections=Superpower",
+    "poster": "x_men_2"
+  },
+  {
+    "title": "Detectives and Agents",
+    "id": "/films?collections=Detectives and Agents",
+    "poster": "sherlock"
+  },
+  {
+    "title": "Monsters",
+    "id": "/films?collections=Monsters",
+    "poster": "jurassic_world"
+  },
+  {
+    "title": "Anime",
+    "id": "/films?collections=Anime",
+    "poster": "your_name"
+  },
+  {
+    "title": "Disaster",
+    "id": "/films?collections=Disaster",
+    "poster": "twenty_twelve"
+  },
+  {
+    "title": "Arts",
+    "id": "/films?collections=Arts",
+    "poster": "d13_1"
+  }
+]

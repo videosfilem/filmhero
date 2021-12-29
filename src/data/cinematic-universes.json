@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Marvel Cinematic Universe",
+    "id": "/films?parts=Marvel Cinematic Universe",
+    "poster": "avengers_4"
+  },
+  {
+    "title": "Harry Potter Universe",
+    "id": "/films?parts=Harry Potter Universe",
+    "poster": "harry_potter_3"
+  },
+  {
+    "title": "Star Wars Universe",
+    "id": "/films?parts=Star Wars Universe",
+    "poster": "mandalorian"
+  },
+  {
+    "title": "The World of Middle-earth",
+    "id": "/films?parts=The World of Middle-earth",
+    "poster": "middle_earth_4"
+  },
+  {
+    "title": "DC Extended Universe",
+    "id": "/films?parts=DC Extended Universe",
+    "poster": "justice_league"
+  },
+  {
+    "title": "Monsterverse",
+    "id": "/films?parts=Monsterverse",
+    "poster": "monsterverse_4"
+  }
+]
