@@ -1,0 +1,95 @@
+{
+    "id": 98,
+    "title": "The Librarian: Return to King Solomon's Mines",
+    "poster": "librarian_2",
+    "trailer": "ansvc2Muxr0",
+    "genres": [
+        "Adventures",
+        "Fantasy"
+    ],
+    "production": [
+        "TNT"
+    ],
+    "director": "Jonathan Frakes",
+    "producers": "Michael S. Murphey, Noah Wyle",
+    "writtens": "Marco Schnabel",
+    "music": "Joseph LoDuca",
+    "cinema": "Walt Lloyd",
+    "year": 2006,
+    "time": 95,
+    "countries": [
+        "USA"
+    ],
+    "actors": [
+        {
+            "name": "Noah Wyle",
+            "character": {
+                "name": "Flynn Carsen"
+            }
+        },
+        {
+            "name": "Gabrielle Anwar",
+            "character": {
+                "name": "Emily Davenport"
+            }
+        },
+        {
+            "name": "Bob Newhart",
+            "character": {
+                "name": "Judson"
+            }
+        },
+        {
+            "name": "Jane Curtin",
+            "character": {
+                "name": "Charlene"
+            }
+        },
+        {
+            "name": "Olympia Dukakis",
+            "character": {
+                "name": "Margie Carsen"
+            }
+        },
+        {
+            "name": "Erick Avari",
+            "character": {
+                "name": "General Samir"
+            }
+        },
+        {
+            "name": "Hakeem Kae-Kazim",
+            "character": {
+                "name": "Jomo"
+            }
+        },
+        {
+            "name": "Robert Foxworth",
+            "character": {
+                "name": "Uncle Jerry"
+            }
+        },
+        {
+            "name": "Zahn McClarnon",
+            "character": {
+                "name": "Tommy Yellow Hawk"
+            }
+        }
+    ],
+    "synopsis": "Librarian-turned-adventurer Flynn Carsen endeavors to find King Solomon's mines.",
+    "collections": ["Fantasy World"],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Presentation on Television"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "The Librarian",
+        "part": 2
+    },
+    "type": "Film",
+    "sort": 200611
+}

@@ -1,0 +1,72 @@
+{
+    "id": 154,
+    "title": "The Mummy",
+    "poster": "mummy_remake",
+    "trailer": "vJxgxVH0Fsk",
+    "genres": [
+        "Fantasy",
+        "Action",
+        "Adventures"
+    ],
+    "production": [
+        "Universal Pictures"
+    ],
+    "director": "Alex Kurtzman",
+    "producers": "Alex Kurtzman, Chris Morgan",
+    "writtens": "David Koepp, Christopher McQuarrie, Dylan Kussman",
+    "music": "Brian Tyler",
+    "cinema": "Ben Seresin",
+    "year": 2017,
+    "time": 110,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 125,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 410,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Tom Cruise",
+            "character": {
+                "name": "Henry Jekyll"
+            }
+        },
+        {
+            "name": "Russell Crowe",
+            "character": {
+                "name": "Jenny Halsey"
+            }
+        },
+        {
+            "name": "Annabelle Wallis",
+            "character": {
+                "name": "Ahmanet"
+            }
+        },
+        {
+            "name": "Sofia Boutella",
+            "character": {
+                "name": "Sgt. Vail"
+            }
+        },
+        {
+            "name": "Jake Johnson",
+            "character": {
+                "name": "Colonel Greenway"
+            }
+        },
+        {
+            "name": "Courtney B. Vance",
+            "character": {}
+        }
+    ],
+    "synopsis": "An ancient Egyptian princess is awakened from her crypt beneath the desert, bringing with her malevolence grown over millennia, and terrors that defy human comprehension.",
+    "collections": ["Mysteries of the Past"],
+    "type": "Film",
+    "sort": 201706
+}

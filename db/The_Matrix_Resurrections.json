@@ -1,0 +1,73 @@
+{
+    "id": 313,
+    "title": "The Matrix Resurrections",
+    "poster": "matrix_4",
+    "trailer": "9ix7TUGVYIo",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "Warner Bros. Pictures",
+        "Village Roadshow Pictures"
+    ],
+    "director": "Lana Wachowski",
+    "producers": "Grant Hill, Lana Wachowski, James McTeigue",
+    "writtens": "Lana Wachowski, David Mitchell, Aleksandar Hemon",
+    "music": "Johnny Klimek, Tom Tykwer",
+    "cinema": "Daniele Massaccesi, John Toll",
+    "year": 2021,
+    "time": 148,
+    "country": "USA",
+    "actors": [
+        {
+            "name": "Keanu Reeves",
+            "character": {
+                "name": "Neo",
+                "poster": "neo"
+            }
+        },
+        {
+            "name": "Carrie-Anne Moss",
+            "character": {
+                "name": "Trinity",
+                "poster": "trinity"
+            }
+        },
+        {
+            "name": "Priyanka Chopra Jonas",
+            "character": {
+                "name": "Sati",
+                "poster": "sati"
+            }
+        },
+        {
+            "name": "Jessica Henwick",
+            "character": {
+                "name": "Bugs"
+            }
+        },
+        {
+            "name": "Neil Patrick Harris",
+            "character": {
+                "name": "The Analyst",
+                "poster": "analyst"
+            }
+        },
+        {
+            "name": "Yahya Abdul-Mateen II",
+            "character": {
+                "name": "Morpheus",
+                "poster": "morpheus"
+            }
+        }
+    ],
+    "synopsis": "Plagued by strange memories, Neo's life takes an unexpected turn when he finds himself back inside the Matrix.",
+    "collections": ["The World of Future"],
+    "parts": {
+        "title": "The Matrix",
+        "part": 4
+    },
+    "type": "Film",
+    "sort": 202112
+}

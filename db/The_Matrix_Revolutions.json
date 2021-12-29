@@ -1,0 +1,90 @@
+{
+    "id": 36,
+    "title": "The Matrix Revolutions",
+    "poster": "matrix_3",
+    "trailer": "hMbexEPAOQI",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "Warner Bros. Pictures"
+    ],
+    "director": "The Wachowski Brothers",
+    "producers": "Joel Silver",
+    "writtens": "The Wachowski Brothers",
+    "music": "Don Davis",
+    "cinema": "Bill Pope",
+    "year": 2003,
+    "time": 129,
+    "countries": [
+        "USA",
+        "Australia"
+    ],
+    "budget": {
+        "value": 110,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 427,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Keanu Reeves",
+            "character": {
+                "name": "Neo"
+            }
+        },
+        {
+            "name": "Laurence Fishburne",
+            "character": {
+                "name": "Morpheus"
+            }
+        },
+        {
+            "name": "Carrie-Anne Moss",
+            "character": {
+                "name": "Trinity"
+            }
+        },
+        {
+            "name": "Hugo Weaving",
+            "character": {
+                "name": "Agent Smith"
+            }
+        },
+        {
+            "name": "Mary Alice",
+            "character": {
+                "name": "Oracle"
+            }
+        },
+        {
+            "name": "Jada Pinkett Smith",
+            "character": {
+                "name": "Niobe"
+            }
+        },
+        {
+            "name": "Harry J. Lennix",
+            "character": {
+                "name": "Lock"
+            }
+        },
+        {
+            "name": "Harold Perrineau",
+            "character": {
+                "name": "Link"
+            }
+        }
+    ],
+    "synopsis": "The human city of Zion defends itself against the massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent Smith.",
+    "collections": ["The World of Future"],
+    "parts": {
+        "title": "The Matrix",
+        "part": 3
+    },
+    "type": "Film",
+    "sort": 200311
+}

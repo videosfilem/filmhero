@@ -1,0 +1,108 @@
+{
+    "id": 56,
+    "title": "Thor",
+    "poster": "thor_1",
+    "trailer": "JOddp-nlNvQ",
+    "genres": [
+        "Fantasy",
+        "Action"
+    ],
+    "production": [
+        "Marvel Studios",
+        "Paramount Pictures"
+    ],
+    "director": "Kenneth Branagh",
+    "producers": "Kevin Feige",
+    "writtens": "Ashley Edward Miller, Zack Stentz, Don Payne",
+    "music": "Patrick Doyle",
+    "cinema": "Haris Zambarloukos",
+    "year": 2011,
+    "time": 114,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 150,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 449,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Chris Hemsworth",
+            "character": {
+                "name": "Thor",
+                "poster": "thor"
+            }
+        },
+        {
+            "name": "Natalie Portman",
+            "character": {
+                "name": "Jane Foster",
+                "poster": "jane"
+            }
+        },
+        {
+            "name": "Tom Hiddleston",
+            "character": {
+                "name": "Loki",
+                "poster": "loki"
+            }
+        },
+        {
+            "name": "Anthony Hopkins",
+            "character": {
+                "name": "Odin",
+                "poster": "odin"
+            }
+        },
+        {
+            "name": "Stellan Skarsgard",
+            "character": {
+                "name": "Erik Selvig"
+            }
+        },
+        {
+            "name": "Kat Dennings",
+            "character": {
+                "name": "Darcy Lewis"
+            }
+        },
+        {
+            "name": "Clark Gregg",
+            "character": {
+                "name": "Agent Coulson"
+            }
+        },
+        {
+            "name": "Colm Feore",
+            "character": {
+                "name": "King Laufey"
+            }
+        },
+        {
+            "name": "Idris Elba",
+            "character": {
+                "name": "Heimdall",
+                "poster": "heimdall"
+            }
+        }
+    ],
+    "synopsis": "The powerful, but arrogant god Thor, is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders.",
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Costumes"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Marvel Cinematic Universe",
+        "part": 4
+    },
+    "type": "Film",
+    "sort": 201104
+}

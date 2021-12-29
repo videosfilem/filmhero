@@ -1,0 +1,121 @@
+{
+    "id": 187,
+    "title": "The Mandalorian",
+    "poster": "mandalorian",
+    "genres": [
+        "Sci-Fi",
+        "Adventures"
+    ],
+    "production": [
+        "Disney+",
+        "Lucasfilm"
+    ],
+    "director": "Jon Favreau",
+    "producers": "Jon Favreau, Dave Filoni, Kathleen Kennedy, Colin Wilson",
+    "writtens": "Jon Favreau, Rick Famuyiwa, Dave Filoni",
+    "music": "Ludwig Göransson",
+    "cinema": "Barry Baz Idoine, Greig Fraser, Matthew Jensen, David Klein",
+    "year": 2019,
+    "time": 640,
+    "countries": [
+        "USA"
+    ],
+    "actors": [
+        {
+            "name": "Pedro Pascal",
+            "character": {
+                "name": "The Mandalorian",
+                "poster": "mandalorian"
+            }
+        },
+        {
+            "name": "Gina Carano",
+            "character": {
+                "name": "Cara Dune",
+                "poster": "cara"
+            }
+        },
+        {
+            "name": "Giancarlo Esposito",
+            "character": {
+                "name": "Moff Gideon",
+                "poster": "moff-gideon"
+            }
+        },
+        {
+            "name": "Carl Weathers",
+            "character": {
+                "name": "Greef Karga",
+                "poster": "karga"
+            }
+        },
+        {
+            "name": "Temuera Morrison",
+            "character": {
+                "name": "Boba Fett",
+                "poster": "boba-fett"
+            }
+        },
+        {
+            "name": "Ming-Na Wen",
+            "character": {
+                "name": "Fennec Shand",
+                "poster": "fennec"
+            }
+        },
+        {
+            "name": "Rosario Dawson",
+            "character": {
+                "name": "Ahsoka Tano",
+                "poster": "ashoka"
+            }
+        },
+        {
+            "name": "Taika Waititi",
+            "character": {
+                "name": "IG-11",
+                "poster": "ig-11"
+            }
+        },
+        {
+            "name": "Nick Nolte",
+            "character": {
+                "name": "Kuiil",
+                "poster": "kuiil"
+            }
+        }
+    ],
+    "synopsis": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+    "awards": [
+        {
+            "title": "Primetime Emmy",
+            "nominations": [
+                "Outstanding Cinematography for a Single-Camera Series (Half-Hour)",
+                "Outstanding Music Composition for a Series (Original Dramatic Score)",
+                "Outstanding Production Design for a Narrative Program (Half-Hour)",
+                "Outstanding Stunt Coordination for a Drama Series Limited Series or Movie",
+                "Outstanding Sound Editing for a Comedy or Drama Series (Half-Hour) and Animation",
+                "Outstanding Sound Mixing for a Comedy or Drama Series (Half-Hour) and Animation",
+                "Outstanding Special Visual Effects"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Star Wars Universe",
+        "part": 9
+    },
+    "type": "Series",
+    "sort": 201911,
+    "seasons": [
+        {
+            "season": 1,
+            "episodes": 8,
+            "trailer": "OFlBh_eUsjA"
+        },
+        {
+            "season": 2,
+            "episodes": 8,
+            "trailer": "eW7Twd85m2g"
+        }
+    ]
+}

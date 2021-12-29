@@ -1,0 +1,142 @@
+{
+    "id": 29,
+    "title": "The Lord of the Rings: The Two Towers",
+    "poster": "middle_earth_5",
+    "trailer": "LbfMDwc4azU",
+    "genres": [
+        "Fantasy",
+        "Adventures"
+    ],
+    "production": [
+        "New Line Cinema"
+    ],
+    "director": "Peter Jackson",
+    "producers": "Peter Jackson, Fran Walsh, Barrie M. Osborne",
+    "writtens": "Fran Walsh, Philippa Boyens, Peter Jackson",
+    "music": "Howard Shore",
+    "cinema": "Andrew Lesnie",
+    "year": 2002,
+    "time": 179,
+    "countries": [
+        "USA",
+        "New Zealand"
+    ],
+    "budget": {
+        "value": 94,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 926,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Elijah Wood",
+            "character": {
+                "name": "Frodo Baggins"
+            }
+        },
+        {
+            "name": "Ian McKellen",
+            "character": {
+                "name": "Gandalf"
+            }
+        },
+        {
+            "name": "Sean Astin",
+            "character": {
+                "name": "Samwise Gamgee"
+            }
+        },
+        {
+            "name": "Viggo Mortensen",
+            "character": {
+                "name": "Aragorn"
+            }
+        },
+        {
+            "name": "John Rhys-Davies",
+            "character": {
+                "name": "Gimli"
+            }
+        },
+        {
+            "name": "Orlando Bloom",
+            "character": {
+                "name": "Legolas"
+            }
+        },
+        {
+            "name": "Cate Blanchett",
+            "character": {
+                "name": "Galadriel"
+            }
+        },
+        {
+            "name": "Christopher Lee",
+            "character": {
+                "name": "Saruman"
+            }
+        },
+        {
+            "name": "Hugo Weaving",
+            "character": {
+                "name": "Elrond"
+            }
+        },
+        {
+            "name": "Andy Serkis",
+            "character": {
+                "name": "Gollum"
+            }
+        }
+    ],
+    "synopsis": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+    "collections": ["Fantasy World"],
+    "awards": [
+        {
+            "title": "Oscar",
+            "nominations": [
+                "Best Sound Editing",
+                "Best Visual Effects"
+            ]
+        },
+        {
+            "title": "BAFTA",
+            "nominations": [
+                "Best Costume Design",
+                "Best Achievement in Special Visual Effects"
+            ]
+        },
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Fantasy Film",
+                "Best Supporting Actor",
+                "Best Costumes",
+                "Best Make-Up"
+            ]
+        },
+        {
+            "title": "MTV Movie Award",
+            "nominations": [
+                "Best Movie",
+                "Best On-Screen Team",
+                "Best Virtual Performance",
+                "Best Action Sequence"
+            ]
+        },
+        {
+            "title": "Critics Choice Award",
+            "nominations": [
+                "Best Digital Acting Performance"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "The World of Middle-earth",
+        "part": 5
+    },
+    "type": "Film",
+    "sort": 200212
+}

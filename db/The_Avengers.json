@@ -1,0 +1,146 @@
+{
+    "id": 58,
+    "title": "The Avengers",
+    "poster": "avengers_1",
+    "trailer": "hIR8Ar-Z4hw",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "Walt Disney Pictures",
+        "Marvel Studios"
+    ],
+    "director": "Joss Whedon",
+    "producers": "Kevin Feige",
+    "writtens": "Joss Whedon",
+    "music": "Alan Silvestri",
+    "cinema": "Seamus McGarvey",
+    "year": 2012,
+    "time": 143,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 220,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 1.52,
+        "suffix": "billion"
+    },
+    "actors": [
+        {
+            "name": "Robert Downey Jr.",
+            "character": {
+                "name": "Tony Stark / Iron Man",
+                "poster": "ironman"
+            }
+        },
+        {
+            "name": "Chris Evans",
+            "character": {
+                "name": "Steve Rogers / Captain America",
+                "poster": "captain-america"
+            }
+        },
+        {
+            "name": "Mark Ruffalo",
+            "character": {
+                "name": "Bruce Banner / The Hulk",
+                "poster": "hulk"
+            }
+        },
+        {
+            "name": "Chris Hemsworth",
+            "character": {
+                "name": "Thor",
+                "poster": "thor"
+            }
+        },
+        {
+            "name": "Scarlett Johansson",
+            "character": {
+                "name": "Natasha Romanoff / Black Widow",
+                "poster": "black-widow"
+            }
+        },
+        {
+            "name": "Jeremy Renner",
+            "character": {
+                "name": "Clint Barton / Hawkeye",
+                "poster": "hawkeye"
+            }
+        },
+        {
+            "name": "Tom Hiddleston",
+            "character": {
+                "name": "Loki",
+                "poster": "loki"
+            }
+        },
+        {
+            "name": "Clark Gregg",
+            "character": {
+                "name": "Agent Phil Coulson"
+            }
+        },
+        {
+            "name": "Cobie Smulders",
+            "character": {
+                "name": "Agent Maria Hill"
+            }
+        },
+        {
+            "name": "Stellan Skarsgard",
+            "character": {
+                "name": "Selvig"
+            }
+        },
+        {
+            "name": "Samuel L. Jackson",
+            "character": {
+                "name": "Nick Fury",
+                "poster": "nick-fury"
+            }
+        },
+        {
+            "name": "Gwyneth Paltrow",
+            "character": {
+                "name": "Pepper Potts"
+            }
+        },
+        {
+            "name": "Paul Bettany",
+            "character": {
+                "name": "Jarvis"
+            }
+        }
+    ],
+    "synopsis": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Science Fiction Film",
+                "Best Supporting Actor (Clark Gregg)",
+                "Best Director",
+                "Best Special Effects"
+            ]
+        },
+        {
+            "title": "MTV Movie Award",
+            "nominations": [
+                "Movie of the Year",
+                "Best Villain",
+                "Best Fight"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Marvel Cinematic Universe",
+        "part": 6
+    },
+    "type": "Film",
+    "sort": 201205
+}

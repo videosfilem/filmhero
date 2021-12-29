@@ -1,0 +1,100 @@
+{
+    "id": 259,
+    "title": "The Hunger Games: Mockingjay - Part 2",
+    "poster": "hunger_games_4",
+    "trailer": "n-7K_OjsDCQ",
+    "genres": [
+        "Sci-Fi",
+        "Adventures"
+    ],
+    "production": [
+        "Lionsgate"
+    ],
+    "director": "Francis Lawrence",
+    "producers": "Nina Jacobson, Jon Kilik",
+    "writtens": "Peter Craig, Danny Strong",
+    "music": "James Newton Howard",
+    "cinema": "Jo Willems",
+    "year": 2015,
+    "time": 137,
+    "countries": [
+        "USA",
+        "Germany",
+        "Canada",
+        "France"
+    ],
+    "budget": {
+        "value": 160,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 658,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Jennifer Lawrence",
+            "character": {
+                "name": "Katniss Everdeen"
+            }
+        },
+        {
+            "name": "Josh Hutcherson",
+            "character": {
+                "name": "Peeta Mellark"
+            }
+        },
+        {
+            "name": "Liam Hemsworth",
+            "character": {
+                "name": "Gale Hawthorne"
+            }
+        },
+        {
+            "name": "Woody Harrelson",
+            "character": {
+                "name": "Haymitch Abernathy"
+            }
+        },
+        {
+            "name": "Elizabeth Banks",
+            "character": {
+                "name": "Effie Trinket"
+            }
+        },
+        {
+            "name": "Donald Sutherland",
+            "character": {
+                "name": "President Coriolanus Snow"
+            }
+        },
+        {
+            "name": "Philip Seymour Hoffman",
+            "character": {
+                "name": "Plutarch Heavensbee"
+            }
+        },
+        {
+            "name": "Julianne Moore",
+            "character": {
+                "name": "President Alma Coin"
+            }
+        }
+    ],
+    "synopsis": "Katniss and a team of rebels from District 13 prepare for the final battle that will decide the fate of Panem.",
+    "collections": ["Dystopia"],
+    "awards": [
+        {
+            "title": "MTV Movie + TV Awards",
+            "nominations": [
+                "Best Hero (2015)"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "The Hunger Games",
+        "part": 4
+    },
+    "type": "Film",
+    "sort": 201511
+}

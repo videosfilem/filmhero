@@ -1,0 +1,159 @@
+{
+    "id": 28,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "poster": "middle_earth_4",
+    "trailer": "aStYWD25fAQ",
+    "genres": [
+        "Fantasy",
+        "Adventures"
+    ],
+    "production": [
+        "New Line Cinema"
+    ],
+    "director": "Peter Jackson",
+    "producers": "Peter Jackson, Tim Sanders, Fran Walsh, Barrie M. Osborne",
+    "writtens": "Fran Walsh, Philippa Boyens, Peter Jackson",
+    "music": "Howard Shore",
+    "cinema": "Andrew Lesnie",
+    "year": 2001,
+    "time": 178,
+    "countries": [
+        "USA",
+        "New Zealand"
+    ],
+    "budget": {
+        "value": 93,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 871,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Elijah Wood",
+            "character": {
+                "name": "Frodo Baggins"
+            }
+        },
+        {
+            "name": "Ian McKellen",
+            "character": {
+                "name": "Gandalf"
+            }
+        },
+        {
+            "name": "Sean Astin",
+            "character": {
+                "name": "Samwise Gamgee"
+            }
+        },
+        {
+            "name": "Viggo Mortensen",
+            "character": {
+                "name": "Aragorn"
+            }
+        },
+        {
+            "name": "Billy Boyd",
+            "character": {
+                "name": "Pereggrin"
+            }
+        },
+        {
+            "name": "Dominic Monaghan",
+            "character": {
+                "name": "Meriadoc"
+            }
+        },
+        {
+            "name": "John Rhys-Davies",
+            "character": {
+                "name": "Gimli"
+            }
+        },
+        {
+            "name": "Orlando Bloom",
+            "character": {
+                "name": "Legolas"
+            }
+        },
+        {
+            "name": "Sean Bean",
+            "character": {
+                "name": "Boromir"
+            }
+        },
+        {
+            "name": "Ian Holm",
+            "character": {
+                "name": "Bilbo Baggins"
+            }
+        },
+        {
+            "name": "Christopher Lee",
+            "character": {
+                "name": "Saruman"
+            }
+        },
+        {
+            "name": "Hugo Weaving",
+            "character": {
+                "name": "Elrond"
+            }
+        }
+    ],
+    "synopsis": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save The World of Middle-earth from the Dark Lord Sauron.",
+    "collections": [
+        "Legends",
+        "Fantasy World"
+    ],
+    "awards": [
+        {
+            "title": "Oscar",
+            "nominations": [
+                "Best Cinematography",
+                "Best Makeup",
+                "Best Music",
+                "Best Visual Effects"
+            ]
+        },
+        {
+            "title": "BAFTA",
+            "nominations": [
+                "Best Film",
+                "Best Achievement in Special Visual Effects",
+                "Best Make Up/Hair"
+            ]
+        },
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Fantasy Film",
+                "Best Supporting Actor",
+                "Best Director"
+            ]
+        },
+        {
+            "title": "MTV Movie Award",
+            "nominations": [
+                "Best Movie",
+                "Breakthrough Male Performance"
+            ]
+        },
+        {
+            "title": "Critics Choice Award",
+            "nominations": [
+                "Favorite Film Franchise",
+                "Best Song",
+                "Best Composer"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "The World of Middle-earth",
+        "part": 4
+    },
+    "type": "Film",
+    "sort": 200112
+}

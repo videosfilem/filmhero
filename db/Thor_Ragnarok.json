@@ -1,0 +1,127 @@
+{
+    "id": 69,
+    "title": "Thor: Ragnarok",
+    "poster": "thor_3",
+    "trailer": "ue80QwXMRHg",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "Walt Disney Pictures",
+        "Marvel Studios"
+    ],
+    "director": "Taika Waititi",
+    "producers": "Kevin Feige",
+    "writtens": "Eric Pearson, Craig Kyle, Christopher L. Yost",
+    "music": "Mark Mothersbaugh",
+    "cinema": "Javier Aguirresarobe",
+    "year": 2017,
+    "time": 130,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 180,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 854,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Chris Hemsworth",
+            "character": {
+                "name": "Thor",
+                "poster": "thor"
+            }
+        },
+        {
+            "name": "Tom Hiddleston",
+            "character": {
+                "name": "Loki",
+                "poster": "loki"
+            }
+        },
+        {
+            "name": "Cate Blanchett",
+            "character": {
+                "name": "Hela",
+                "poster": "hela"
+            }
+        },
+        {
+            "name": "Idris Elba",
+            "character": {
+                "name": "Heimdall",
+                "poster": "heimdall"
+            }
+        },
+        {
+            "name": "Jeff Goldblum",
+            "character": {
+                "name": "Grandmaster",
+                "poster": "grandmaster"
+            }
+        },
+        {
+            "name": "Tessa Thompson",
+            "character": {
+                "name": "Valkyrie",
+                "poster": "valkyrie"
+            }
+        },
+        {
+            "name": "Karl Urban",
+            "character": {
+                "name": "Skurge"
+            }
+        },
+        {
+            "name": "Mark Ruffalo",
+            "character": {
+                "name": "Bruce Banner / Hulk",
+                "poster": "hulk"
+            }
+        },
+        {
+            "name": "Anthony Hopkins",
+            "character": {
+                "name": "Odin",
+                "poster": "odin"
+            }
+        },
+        {
+            "name": "Benedict Cumberbatch",
+            "character": {
+                "name": "Doctor Strange"
+            }
+        },
+        {
+            "name": "Taika Waititi",
+            "character": {
+                "name": "Korg"
+            }
+        },
+        {
+            "name": "Rachel House",
+            "character": {
+                "name": "Topaz"
+            }
+        },
+        {
+            "name": "Clancy Brown",
+            "character": {
+                "name": "Surtur"
+            }
+        }
+    ],
+    "synopsis": "Thor is imprisoned on the planet Sakaar, and must race against time to return to Asgard and stop Ragnarцk, the destruction of his world, at the hands of the powerful and ruthless villain Hela.",
+    "parts": {
+        "title": "Marvel Cinematic Universe",
+        "part": 17
+    },
+    "type": "Film",
+    "sort": 201711
+}

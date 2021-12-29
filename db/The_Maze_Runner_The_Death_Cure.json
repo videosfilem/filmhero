@@ -1,0 +1,113 @@
+{
+    "id": 253,
+    "title": "The Maze Runner: The Death Cure",
+    "poster": "maze_runner_3",
+    "trailer": "4-BTxXm8KSg",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "20th Century FOX"
+    ],
+    "director": "Wes Ball",
+    "producers": "Marty Bowen, Wyck Godfrey, Ellen Goldsmith-Vein, Lee Stollman",
+    "writtens": "T.S. Nowlin",
+    "music": "John Paesano",
+    "cinema": "Gyula Pados",
+    "year": 2018,
+    "time": 143,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 62,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 288,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Dylan O'Brien",
+            "character": {
+                "name": "Thomas",
+                "poster": "thomas"
+            }
+        },
+        {
+            "name": "Kaya Scodelario",
+            "character": {
+                "name": "Teresa",
+                "poster": "teresa"
+            }
+        },
+        {
+            "name": "Nathalie Emmanuel",
+            "character": {
+                "name": "Harriet"
+            }
+        },
+        {
+            "name": "Thomas Brodie-Sangster",
+            "character": {
+                "name": "Newt",
+                "poster": "newt"
+            }
+        },
+        {
+            "name": "Ki Hong Lee",
+            "character": {
+                "name": "Minho",
+                "poster": "minho"
+            }
+        },
+        {
+            "name": "Aidan Gillen",
+            "character": {
+                "name": "Janson"
+            }
+        },
+        {
+            "name": "Giancarlo Esposito",
+            "character": {
+                "name": "Jorge",
+                "poster": "jorge"
+            }
+        },
+        {
+            "name": "Katherine McNamara",
+            "character": {
+                "name": "Sonya"
+            }
+        },
+        {
+            "name": "Rosa Salazar",
+            "character": {
+                "name": "Brenda",
+                "poster": "brenda"
+            }
+        },
+        {
+            "name": "Walton Goggins",
+            "character": {
+                "name": "Lawrence"
+            }
+        },
+        {
+            "name": "Will Poulter",
+            "character": {
+                "name": "Gally"
+            }
+        }
+    ],
+    "synopsis": "Young hero Thomas embarks on a mission to find a cure for a deadly disease known as \"The Flare\".",
+    "collections": ["Dystopia"],
+    "parts": {
+        "title": "The Maze Runner",
+        "part": 3
+    },
+    "type": "Film",
+    "sort": 201801
+}

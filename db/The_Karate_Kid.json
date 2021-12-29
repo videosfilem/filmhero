@@ -1,0 +1,76 @@
+{
+    "id": 286,
+    "title": "The Karate Kid",
+    "poster": "karate_kid",
+    "trailer": "XY8amUImEu0",
+    "genres": [
+        "Action",
+        "Drama"
+    ],
+    "production": [
+        "Columbia Pictures"
+    ],
+    "director": "Harald Zwart",
+    "producers": "James Lassiter, Jada Pinkett Smith, Will Smith, Ken Stovitz, Jerry Weintraub",
+    "writtens": "Christopher Murphey",
+    "music": "James Horner",
+    "cinema": "Roger Pratt",
+    "year": 2010,
+    "time": 140,
+    "countries": [
+        "USA",
+        "China"
+    ],
+    "budget": {
+        "value": 40,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 359,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Jaden Smith",
+            "character": {
+                "name": "Dre Parker"
+            }
+        },
+        {
+            "name": "Jackie Chan",
+            "character": {
+                "name": "Mr. Han"
+            }
+        },
+        {
+            "name": "Taraji P. Henson",
+            "character": {
+                "name": "Sherry Parker"
+            }
+        },
+        {
+            "name": "Wenwen Han",
+            "character": {
+                "name": "Meiying"
+            }
+        },
+        {
+            "name": "Rongguang Yu",
+            "character": {
+                "name": "Master Li"
+            }
+        }
+    ],
+    "synopsis": "Work causes a single mother to move to China with her young son; in his new home, the boy embraces kung fu, taught to him by a master.",
+    "collections": ["Arts"],
+    "awards": [
+        {
+            "title": "Empire Award",
+            "nominations": [
+                "Best Newcomer"
+            ]
+        }
+    ],
+    "type": "Film",
+    "sort": 201008
+}

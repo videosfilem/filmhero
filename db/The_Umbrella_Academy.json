@@ -1,0 +1,126 @@
+{
+    "id": 238,
+    "title": "The Umbrella Academy",
+    "poster": "umbrella_academy",
+    "genres": [
+        "Fantasy",
+        "Comedy"
+    ],
+    "production": [
+        "Netflix"
+    ],
+    "director": "Steve Blackman, Jeremy Slater",
+    "producers": "Kevin Lafferty, Sneha Koorse, Jamie Neese, Jason Neese, Ted Miller",
+    "writtens": "Steve Blackman, Jeremy Slater",
+    "music": "Jeff Russo, Perrine Virgile",
+    "cinema": "Neville Kidd, Craig Wrobleski",
+    "year": 2019,
+    "time": 1200,
+    "countries": [
+        "USA"
+    ],
+    "actors": [
+        {
+            "name": "Tom Hopper",
+            "character": {
+                "name": "Luther Hargreeves",
+                "poster": "luther"
+            }
+        },
+        {
+            "name": "David Castañeda",
+            "character": {
+                "name": "Diego Hargreeves",
+                "poster": "diego"
+            }
+        },
+        {
+            "name": "Emmy Raver-Lampman",
+            "character": {
+                "name": "Allison Hargreeves",
+                "poster": "allison"
+            }
+        },
+        {
+            "name": "Robert Sheehan",
+            "character": {
+                "name": "Klaus Hargreeves",
+                "poster": "klaus"
+            }
+        },
+        {
+            "name": "Aidan Gallagher",
+            "character": {
+                "name": "Number Five",
+                "poster": "five"
+            }
+        },
+        {
+            "name": "Justin H. Min",
+            "character": {
+                "name": "Ben Hargreeves"
+            }
+        },
+        {
+            "name": "Ellen Page",
+            "character": {
+                "name": "Vanya Hargreeves",
+                "poster": "vanya"
+            }
+        },
+        {
+            "name": "Colm Feore",
+            "character": {
+                "name": "Reginald Hargreeves"
+            }
+        },
+        {
+            "name": "Ritu Arya",
+            "character": {
+                "name": "Lila Pitts"
+            }
+        },
+        {
+            "name": "Jordan Claire Robbins",
+            "character": {
+                "name": "Grace"
+            }
+        },
+        {
+            "name": "Kate Walsh",
+            "character": {
+                "name": "The Handler"
+            }
+        },
+        {
+            "name": "Cameron Britton",
+            "character": {
+                "name": "Hazel",
+                "poster": "hazel"
+            }
+        },
+        {
+            "name": "Mary J. Blige",
+            "character": {
+                "name": "Cha-Cha",
+                "poster": "cha-cha"
+            }
+        }
+    ],
+    "synopsis": "A family of former child heroes, now grown apart, must reunite to continue to protect the world.",
+    "collections": ["Superpower"],
+    "type": "Series",
+    "seasons": [
+        {
+            "season": 1,
+            "episodes": 10,
+            "trailer": "0DAmWHxeoKw"
+        },
+        {
+            "season": 2,
+            "episodes": 10,
+            "trailer": "Me0eoCwLj-A"
+        }
+    ],
+    "sort": 201902
+}

@@ -1,0 +1,141 @@
+{
+    "id": 77,
+    "title": "Star Trek",
+    "poster": "star_trek_1",
+    "trailer": "pKFUZ10Wmbw",
+    "genres": [
+        "Sci-Fi",
+        "SpaceOpera"
+    ],
+    "production": [
+        "Paramount Pictures",
+        "Bad Robot Productions"
+    ],
+    "director": "J.J. Abrams",
+    "producers": "J.J. Abrams, Deamon Lindelof",
+    "writtens": "Roberto Orci, Alex Kurtzman",
+    "music": "Michael Giacchino",
+    "cinema": "Dan Mindel",
+    "year": 2009,
+    "time": 127,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 150,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 386,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Chris Pine",
+            "character": {
+                "name": "Kirk",
+                "poster": "kirk"
+            }
+        },
+        {
+            "name": "Zachary Quinto",
+            "character": {
+                "name": "Spock",
+                "poster": "spock"
+            }
+        },
+        {
+            "name": "Leonard Nimoy",
+            "character": {
+                "name": "Spock Prime"
+            }
+        },
+        {
+            "name": "Eric Bana",
+            "character": {
+                "name": "Nero",
+                "poster": "nero"
+            }
+        },
+        {
+            "name": "Bruce Greenwood",
+            "character": {
+                "name": "Pike"
+            }
+        },
+        {
+            "name": "Karl Urban",
+            "character": {
+                "name": "Bones",
+                "poster": "bones"
+            }
+        },
+        {
+            "name": "Zoe Saldana",
+            "character": {
+                "name": "Uhura",
+                "poster": "uhura"
+            }
+        },
+        {
+            "name": "Simon Pegg",
+            "character": {
+                "name": "Scotty"
+            }
+        },
+        {
+            "name": "John Cho",
+            "character": {
+                "name": "Sulu",
+                "poster": "sulu"
+            }
+        },
+        {
+            "name": "Anton Yelchin",
+            "character": {
+                "name": "Chekov",
+                "poster": "chekov"
+            }
+        },
+        {
+            "name": "Ben Cross",
+            "character": {
+                "name": "Sarek"
+            }
+        },
+        {
+            "name": "Winona Ryder",
+            "character": {
+                "name": "Amanda Grayson"
+            }
+        },
+        {
+            "name": "Chris Hemsworth",
+            "character": {
+                "name": "George Kirk"
+            }
+        }
+    ],
+    "synopsis": "The brash James T. Kirk tries to live up to his father's legacy with Mr. Spock keeping him in check as a vengeful Romulan from the future creates black holes to destroy the Federation one planet at a time.",
+    "collections": ["Space Adventures"],
+    "awards": [
+        {
+            "title": "Oscar",
+            "nominations": [
+                "Best Achievement in Makeup"
+            ]
+        },
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Make-Up"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Star Trek",
+        "part": 1
+    },
+    "type": "Film",
+    "sort": 200905
+}

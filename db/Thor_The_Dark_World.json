@@ -1,0 +1,114 @@
+{
+    "id": 60,
+    "title": "Thor: The Dark World",
+    "poster": "thor_2",
+    "trailer": "npvJ9FTgZbM",
+    "genres": [
+        "Fantasy",
+        "Action"
+    ],
+    "production": [
+        "Walt Disney Pictures",
+        "Marvel Studios"
+    ],
+    "director": "Alan Taylor",
+    "producers": "Kevin Feige",
+    "writtens": "Christopher Yost, Stephen McFeely, Christopher Markus",
+    "music": "Brian Tyler",
+    "cinema": "Kramer Morgenthau",
+    "year": 2013,
+    "time": 112,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 153,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 645,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Chris Hemsworth",
+            "character": {
+                "name": "Thor",
+                "poster": "thor"
+            }
+        },
+        {
+            "name": "Natalie Portman",
+            "character": {
+                "name": "Jane Foster",
+                "poster": "jane"
+            }
+        },
+        {
+            "name": "Tom Hiddleston",
+            "character": {
+                "name": "Loki",
+                "poster": "loki"
+            }
+        },
+        {
+            "name": "Anthony Hopkins",
+            "character": {
+                "name": "Odin",
+                "poster": "odin"
+            }
+        },
+        {
+            "name": "Christopher Eccleston",
+            "character": {
+                "name": "Malekith",
+                "poster": "malekith"
+            }
+        },
+        {
+            "name": "Jaimie Alexander",
+            "character": {
+                "name": "Sif",
+                "poster": "sif"
+            }
+        },
+        {
+            "name": "Zachary Levi",
+            "character": {
+                "name": "Fandral"
+            }
+        },
+        {
+            "name": "Ray Stevenson",
+            "character": {
+                "name": "Volstagg",
+                "poster": "volstagg"
+            }
+        },
+        {
+            "name": "Tadanobu Asano",
+            "character": {
+                "name": "Hogun"
+            }
+        },
+        {
+            "name": "Idris Elba",
+            "character": {
+                "name": "Heimdall"
+            }
+        },
+        {
+            "name": "Rene Russo",
+            "character": {
+                "name": "Frigga"
+            }
+        }
+    ],
+    "synopsis": "When Dr. Jane Foster gets cursed with a powerful entity known as the Aether, Thor is heralded of the cosmic event known as the Convergence and the genocidal Dark Elves.",
+    "parts": {
+        "title": "Marvel Cinematic Universe",
+        "part": 8
+    },
+    "type": "Film",
+    "sort": 201310
+}

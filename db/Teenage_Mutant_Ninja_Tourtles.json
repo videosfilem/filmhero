@@ -1,0 +1,107 @@
+{
+    "id": 186,
+    "title": "Teenage Mutant Ninja Tourtles",
+    "poster": "tmnt",
+    "trailer": "VZZ0PnDZdZk",
+    "genres": [
+        "Action",
+        "Comedy"
+    ],
+    "production": [
+        "Paramount Pictures"
+    ],
+    "director": "Jonathan Liebesman",
+    "producers": "Michael Bay, Andrew Form, Brad Fuller, Galen Walker, Scott Mednick, Ian Bryce",
+    "writtens": "Josh Appelbaum, André Nemec, Evan Daugherty",
+    "music": "Brian Tyler",
+    "cinema": "Lula Carvalho",
+    "year": 2014,
+    "time": 101,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 125,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 493,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Pete Ploszek",
+            "character": {
+                "name": "Leonardo",
+                "poster": "leonardo"
+            }
+        },
+        {
+            "name": "Johnny Knoxville",
+            "character": {
+                "name": "Leonardo"
+            }
+        },
+        {
+            "name": "Alan Ritchson",
+            "character": {
+                "name": "Raphael",
+                "poster": "raphael"
+            }
+        },
+        {
+            "name": "Jeremy Howard",
+            "character": {
+                "name": "Donatello",
+                "poster": "donatello"
+            }
+        },
+        {
+            "name": "Noel Fisher",
+            "character": {
+                "name": "Michelangelo",
+                "poster": "michelangelo"
+            }
+        },
+        {
+            "name": "Tony Shalhoub",
+            "character": {
+                "name": "Splinter"
+            }
+        },
+        {
+            "name": "Tohoru Masamune",
+            "character": {
+                "name": "Shredder"
+            }
+        },
+        {
+            "name": "Megan Fox",
+            "character": {
+                "name": "April O'Neil"
+            }
+        },
+        {
+            "name": "Will Arnett",
+            "character": {
+                "name": "Vern Fenwick"
+            }
+        },
+        {
+            "name": "William Fichtner",
+            "character": {
+                "name": "Eric Sacks"
+            }
+        },
+        {
+            "name": "Danny Woodburn",
+            "character": {
+                "name": "Splinter"
+            }
+        }
+    ],
+    "synopsis": "When a kingpin threatens New York City, a group of mutated turtle warriors must emerge from the shadows to protect their home.",
+    "collections": ["Superpower"],
+    "type": "Film",
+    "sort": 201408
+}

@@ -1,0 +1,114 @@
+{
+    "id": 22,
+    "title": "Star Wars Episode VI: Return of the Jedi",
+    "poster": "star_wars_episode_VI",
+    "trailer": "5UfA_aKBGMc",
+    "genres": [
+        "SpaceOpera",
+        "Adventures"
+    ],
+    "production": [
+        "20th Century FOX",
+        "Lucasfilm"
+    ],
+    "director": "Richard Marquand",
+    "producers": "Howard Kazanjian",
+    "writtens": "George Lucas, Lawrence Kasdan",
+    "music": "John Williams",
+    "cinema": "Alan Hume",
+    "year": 1983,
+    "time": 131,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 32,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 573,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Mark Hamill",
+            "character": {
+                "name": "Luke Skywalker"
+            }
+        },
+        {
+            "name": "Harrison Ford",
+            "character": {
+                "name": "Han Solo"
+            }
+        },
+        {
+            "name": "Carrie Fisher",
+            "character": {
+                "name": "Leia"
+            }
+        },
+        {
+            "name": "Billy Dee Williams",
+            "character": {
+                "name": "Lando Calrissian"
+            }
+        },
+        {
+            "name": "Anthony Daniels",
+            "character": {
+                "name": "C-3PO"
+            }
+        },
+        {
+            "name": "David Prowse",
+            "character": {
+                "name": "Darth Vader"
+            }
+        },
+        {
+            "name": "Peter Mayhew",
+            "character": {
+                "name": "Chewbacca"
+            }
+        },
+        {
+            "name": "Kenny Baker",
+            "character": {
+                "name": "R2-D2"
+            }
+        },
+        {
+            "name": "Frank Oz",
+            "character": {
+                "name": "Yoda"
+            }
+        }
+    ],
+    "synopsis": "After a daring mission to rescue Han Solo from Jabba the Hutt, the rebels dispatch to Endor to destroy a more powerful Death Star. Meanwhile, Luke struggles to help Vader back from the dark side without falling into the Emperor's trap.",
+    "awards": [
+        {
+            "title": "BAFTA",
+            "nominations": [
+                "Best Special Visual Effects"
+            ]
+        },
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best DVD Collection",
+                "Best Science Fiction Film",
+                "Best Actor",
+                "Best Costumes",
+                "Best Make-Up",
+                "Best Special Effects"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Star Wars Universe",
+        "part": 8
+    },
+    "type": "Film",
+    "sort": 198305
+}
