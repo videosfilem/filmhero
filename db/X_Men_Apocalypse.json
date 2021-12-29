@@ -1,0 +1,123 @@
+{
+    "id": 86,
+    "title": "X-Men: Apocalypse",
+    "poster": "x_men_7",
+    "trailer": "Jer8XjMrUB4",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "20th Century FOX",
+        "Marvel Entertainment"
+    ],
+    "director": "Bryan Singer",
+    "producers": "Lauren Shuler Donner, Bryan Singer",
+    "writtens": "Simon Kinberg",
+    "music": "John Ottman",
+    "cinema": "Newton Thomas Sigel",
+    "year": 2016,
+    "time": 144,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 178,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 544,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "James McAvoy",
+            "character": {
+                "name": "Professor Charles Xavier",
+                "poster": "professor-x"
+            }
+        },
+        {
+            "name": "Michael Fassbender",
+            "character": {
+                "name": "Erik Lehnsherr / Magneto",
+                "poster": "magneto"
+            }
+        },
+        {
+            "name": "Jennifer Lawrence",
+            "character": {
+                "name": "Raven / Mystique",
+                "poster": "mystique"
+            }
+        },
+        {
+            "name": "Nicholas Hoult",
+            "character": {
+                "name": "Hank McCoy / Beast",
+                "poster": "beast"
+            }
+        },
+        {
+            "name": "Oscar Isaac",
+            "character": {
+                "name": "En Sabah Nur / Apocalypse",
+                "poster": "apocalypse"
+            }
+        },
+        {
+            "name": "Rose Byrne",
+            "character": {
+                "name": "Moira Mactaggert"
+            }
+        },
+        {
+            "name": "Evan Peters",
+            "character": {
+                "name": "Peter Maximoff / Quicksilver",
+                "poster": "quicksilver"
+            }
+        },
+        {
+            "name": "Josh Helman",
+            "character": {
+                "name": "Col. William Stryker"
+            }
+        },
+        {
+            "name": "Sophie Turner",
+            "character": {
+                "name": "Jean Grey",
+                "poster": "jean-gray"
+            }
+        },
+        {
+            "name": "Tye Sheridan",
+            "character": {
+                "name": "Scott Summers / Cyclops",
+                "poster": "cyclops"
+            }
+        },
+        {
+            "name": "Lucas Till",
+            "character": {
+                "name": "Alex Summers / Havok"
+            }
+        },
+        {
+            "name": "Kodi Smit-McPhee",
+            "character": {
+                "name": "Kurt Wagner / Nightcrawler",
+                "poster": "nightcrawler"
+            }
+        }
+    ],
+    "synopsis": "In the 1980s the X-Men must defeat an ancient all-powerful mutant, En Sabah Nur, who intends to thrive through bringing destruction to the world.",
+    "collections": ["Superpower"],
+    "parts": {
+        "title": "X-Men",
+        "part": 8
+    },
+    "type": "Film",
+    "sort": 201605
+}

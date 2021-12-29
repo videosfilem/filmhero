@@ -1,0 +1,116 @@
+{
+    "id": 84,
+    "title": "X-Men: First Class",
+    "poster": "x_men_5",
+    "trailer": "kyQKi5-k0UU",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "20th Century FOX",
+        "Marvel Entertainment"
+    ],
+    "director": "Matthew Vaughn",
+    "producers": "Lauren Shuler Donner, Bryan Singer",
+    "writtens": "Ashley Edward Miller, Zack Stentz, Jane Goldman, Matthew Vaughn",
+    "music": "Henry Jackman",
+    "cinema": "John Mathieson",
+    "year": 2011,
+    "time": 132,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 140,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 354,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "James McAvoy",
+            "character": {
+                "name": "Charles Xavier"
+            }
+        },
+        {
+            "name": "Michael Fassbender",
+            "character": {
+                "name": "Erik Lensherr"
+            }
+        },
+        {
+            "name": "Bill Milner",
+            "character": {
+                "name": "Young Erik"
+            }
+        },
+        {
+            "name": "Kevin Bacon",
+            "character": {
+                "name": "Sebastian Shaw"
+            }
+        },
+        {
+            "name": "Rose Byrne",
+            "character": {
+                "name": "Moira MacTaggert"
+            }
+        },
+        {
+            "name": "Jennifer Lawrence",
+            "character": {
+                "name": "Raven / Mystique"
+            }
+        },
+        {
+            "name": "January Jones",
+            "character": {
+                "name": "Emma Frost"
+            }
+        },
+        {
+            "name": "Nicholas Hoult",
+            "character": {
+                "name": "Hank / Beast"
+            }
+        },
+        {
+            "name": "Caleb Landry Jones",
+            "character": {
+                "name": "Cassidy / Banshee"
+            }
+        },
+        {
+            "name": "Lucas Till",
+            "character": {
+                "name": "Alex Summers / Havok"
+            }
+        },
+        {
+            "name": "Don Creech",
+            "character": {
+                "name": "William Stryker"
+            }
+        }
+    ],
+    "synopsis": "In the 1960s, superpowered humans Charles Xavier and Erik Lensherr work together to find others like them, but Erik's vengeful pursuit of an ambitious mutant who ruined his life causes a schism to divide them.",
+    "collections": ["Superpower"],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Make-Up"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "X-Men",
+        "part": 5
+    },
+    "type": "Film",
+    "sort": 201105
+}

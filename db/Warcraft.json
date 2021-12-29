@@ -1,0 +1,116 @@
+{
+    "id": 155,
+    "title": "Warcraft",
+    "poster": "warcraft",
+    "trailer": "2Rxoz13Bthc",
+    "genres": [
+        "Fantasy",
+        "Action"
+    ],
+    "production": [
+        "Universal Pictures",
+        "Legendary"
+    ],
+    "director": "Duncan Jones",
+    "producers": "Charles Roven, Alex Gartner, Thomas Tull, Jon Jashni, Stuart Fenegan",
+    "writtens": "Charles Leavitt, Duncan Jones",
+    "music": "Ramin Djawadi",
+    "cinema": "Simon Duggan",
+    "year": 2016,
+    "time": 123,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 160,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 434,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Travis Fimmel",
+            "character": {
+                "name": "Anduin Lothar"
+            }
+        },
+        {
+            "name": "Paula Patton",
+            "character": {
+                "name": "Garona"
+            }
+        },
+        {
+            "name": "Ben Foster",
+            "character": {
+                "name": "Medivh"
+            }
+        },
+        {
+            "name": "Dominic Cooper",
+            "character": {
+                "name": "Llane Wrynn"
+            }
+        },
+        {
+            "name": "Toby Kebbell",
+            "character": {
+                "name": "Durotan / Antonidas"
+            }
+        },
+        {
+            "name": "Ben Schnetzer",
+            "character": {
+                "name": "Khadgar"
+            }
+        },
+        {
+            "name": "Robert Kazinsky",
+            "character": {
+                "name": "Orgrim"
+            }
+        },
+        {
+            "name": "Clancy Brown",
+            "character": {
+                "name": "Blackhand"
+            }
+        },
+        {
+            "name": "Daniel Wu",
+            "character": {
+                "name": "Gul'dan"
+            }
+        },
+        {
+            "name": "Ruth Negga",
+            "character": {
+                "name": "Lady Taria"
+            }
+        },
+        {
+            "name": "Anna Galvin",
+            "character": {
+                "name": "Draka"
+            }
+        },
+        {
+            "name": "Callum Keith Rennie",
+            "character": {
+                "name": "Moroes"
+            }
+        },
+        {
+            "name": "Burkely Duffield",
+            "character": {
+                "name": "Callan"
+            }
+        }
+    ],
+    "synopsis": "As an Orc horde invades the planet Azeroth using a magic portal, a few human heroes and dissenting Orcs must attempt to stop the true evil behind this war.",
+    "collections": ["Fantasy World"],
+    "type": "Film",
+    "sort": 201606
+}
