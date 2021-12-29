@@ -1,0 +1,113 @@
+{
+    "id": 19,
+    "title": "Solo: A Star Wars Story",
+    "poster": "solo",
+    "trailer": "jPEYpryMp2s",
+    "genres": [
+        "Space Western"
+    ],
+    "production": [
+        "Lucasfilm",
+        "Walt Disney Pictures"
+    ],
+    "director": "Ron Howard",
+    "producers": "Kathleen Kennedy, Allison Shearmur, Simon Emanuel",
+    "writtens": "Jonathan Kasdan, Lawrence Kasdan",
+    "music": "John Powell, John Williams",
+    "cinema": "Bradford Young",
+    "year": 2018,
+    "time": 135,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 375,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 393,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Alden Ehrenreich",
+            "character": {
+                "name": "Han Solo",
+                "poster": "han-solo"
+            }
+        },
+        {
+            "name": "Joonas Suotamo",
+            "character": {
+                "name": "Chewbacca",
+                "poster": "chewbacca"
+            }
+        },
+        {
+            "name": "Woody Harrelson",
+            "character": {
+                "name": "Beckett",
+                "poster": "beckett"
+            }
+        },
+        {
+            "name": "Emilia Clarke",
+            "character": {
+                "name": "Qi'ra",
+                "poster": "qira"
+            }
+        },
+        {
+            "name": "Donald Glover",
+            "character": {
+                "name": "Lando Calrissian",
+                "poster": "lando"
+            }
+        },
+        {
+            "name": "Thandie Newton",
+            "character": {
+                "name": "Val",
+                "poster": "val"
+            }
+        },
+        {
+            "name": "Phoebe Waller-Bridge",
+            "character": {
+                "name": "L3-37",
+                "poster": "l3-37"
+            }
+        },
+        {
+            "name": "Paul Bettany",
+            "character": {
+                "name": "Dryden Vos",
+                "poster": "dryden"
+            }
+        },
+        {
+            "name": "Jon Favreau",
+            "character": {
+                "name": "Rio Durant",
+                "poster": "rio"
+            }
+        }
+    ],
+    "synopsis": "During an adventure into the criminal underworld, Han Solo meets his future co-pilot Chewbacca and encounters Lando Calrissian years before joining the Rebellion.",
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Film",
+                "Best Actress",
+                "Best Director"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Star Wars Universe",
+        "part": 5
+    },
+    "type": "Film",
+    "sort": 201805
+}

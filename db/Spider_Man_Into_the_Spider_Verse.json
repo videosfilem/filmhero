@@ -1,0 +1,135 @@
+{
+    "id": 172,
+    "title": "Spider-Man: Into the Spider-Verse",
+    "poster": "spiderman_intospiderverse",
+    "trailer": "g4Hbz2jLxvQ",
+    "genres": [
+        "Action",
+        "Adventures"
+    ],
+    "production": [
+        "Sony Pictures Animation",
+        "Columbia Pictures",
+        "Marvel Entertainment"
+    ],
+    "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+    "producers": "Avi Arad, Amy Pascal, Phil Lord , Christopher Miller, Christina Steinberg",
+    "writtens": "Phil Lord, Rodney Rothman",
+    "music": "Daniel Pemberton",
+    "year": 2018,
+    "time": 117,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 90,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 371,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Shameik Moore",
+            "character": {
+                "name": "Miles Morales",
+                "poster": "miles"
+            }
+        },
+        {
+            "name": "Jake Johnson",
+            "character": {
+                "name": "Peter B. Parker",
+                "poster": "peter"
+            }
+        },
+        {
+            "name": "Hailee Steinfeld",
+            "character": {
+                "name": "Gwen Stacy",
+                "poster": "gwen"
+            }
+        },
+        {
+            "name": "Mahershala Ali",
+            "character": {
+                "name": "Uncle Aaron"
+            }
+        },
+        {
+            "name": "Brian Tyree Henry",
+            "character": {
+                "name": "Jefferson Davis"
+            }
+        },
+        {
+            "name": "Lily Tomlin",
+            "character": {
+                "name": "Aunt May"
+            }
+        },
+        {
+            "name": "Luna Lauren Velez",
+            "character": {
+                "name": "Rio Morales"
+            }
+        },
+        {
+            "name": "Zoe Kravitz",
+            "character": {
+                "name": "Mary Jane"
+            }
+        },
+        {
+            "name": "John Mulaney",
+            "character": {
+                "name": "Spider-Ham"
+            }
+        },
+        {
+            "name": "Kimiko Glenn",
+            "character": {
+                "name": "Peni Parker",
+                "poster": "peni"
+            }
+        },
+        {
+            "name": "Nicolas Cage",
+            "character": {
+                "name": "Spider-Man Noir",
+                "poster": "noir"
+            }
+        },
+        {
+            "name": "Liev Schreiber",
+            "character": {
+                "name": "Wilson Fisk"
+            }
+        }
+    ],
+    "synopsis": "Teen Miles Morales becomes Spider-Man of his reality, crossing his path with five counterparts from other dimensions to stop a threat for all realities.",
+    "collections": ["Superpower"],
+    "awards": [
+        {
+            "title": "Oscar",
+            "nominations": [
+                "Best Animated Feature Film"
+            ]
+        },
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Animated Film"
+            ]
+        },
+        {
+            "title": "Critics Choice Award",
+            "nominations": [
+                "Best Animated Feature"
+            ]
+        }
+    ],
+    "type": "Animation",
+    "sort": 201812
+}

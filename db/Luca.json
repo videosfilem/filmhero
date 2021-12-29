@@ -1,0 +1,57 @@
+{
+    "id": 247,
+    "title": "Luca",
+    "poster": "luca",
+    "trailer": "mYfJxlgR2jw",
+    "genres": [
+        "Adventures",
+        "Fantasy"
+    ],
+    "production": [
+        "Pixar Animation"
+    ],
+    "director": "Enrico Casarosa",
+    "producers": "Andrea Warren",
+    "writtens": "Jesse Andrews, Mike Jones",
+    "music": "Dan Romer",
+    "cinema": "David Juan Bianchi, Kim White",
+    "year": 2021,
+    "time": 95,
+    "country": "USA",
+    "boxoffice": {
+        "value": 50,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Jacob Tremblay",
+            "character": {
+                "name": "Luca Paguro",
+                "poster": "luca"
+            }
+        },
+        {
+            "name": "Jack Dylan Grazer",
+            "character": {
+                "name": "Alberto Scorfano",
+                "poster": "alberto"
+            }
+        },
+        {
+            "name": "Emma Berman",
+            "character": {
+                "name": "Giulia Marcovaldo",
+                "poster": "giulia"
+            }
+        },
+        {
+            "name": "Marco Barricelli",
+            "character": {
+                "name": "Massimo Marcovaldo"
+            }
+        }
+    ],
+    "synopsis": "On the Italian Riviera, an unlikely but strong friendship grows between a human being and a sea monster disguised as a human.",
+    "type": "Animation",
+    "sort": 202106
+}

@@ -1,0 +1,99 @@
+{
+    "id": 175,
+    "title": "Now You See Me",
+    "poster": "now_you_see_me",
+    "trailer": "KzJNYYkkhzc",
+    "genres": [
+        "Crime",
+        "Thriller"
+    ],
+    "production": [
+        "Summit Entertainment"
+    ],
+    "director": "Louis Leterrier",
+    "producers": "Bobby Cohen, Alex Kurtzman, Roberto Orci",
+    "writtens": "Ed Solomon, Boaz Yakin, Edward Ricourt",
+    "music": "Brian Tyler",
+    "cinema": "Mitchell Amundsen, Larry Fong",
+    "year": 2013,
+    "time": 115,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 75,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 352,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Jesse Eisenberg",
+            "character": {
+                "name": "J. Daniel Atlas",
+                "poster": "atlas"
+            }
+        },
+        {
+            "name": "Mark Ruffalo",
+            "character": {
+                "name": "Dylan Rhodes",
+                "poster": "rhodes"
+            }
+        },
+        {
+            "name": "Woody Harrelson",
+            "character": {
+                "name": "Merritt McKinney",
+                "poster": "mckinney"
+            }
+        },
+        {
+            "name": "Isla Fisher",
+            "character": {
+                "name": "Henley Reeves",
+                "poster": "reeves"
+            }
+        },
+        {
+            "name": "Dave Franco",
+            "character": {
+                "name": "Jack Wilder",
+                "poster": "wilder"
+            }
+        },
+        {
+            "name": "Mélanie Laurent",
+            "character": {
+                "name": "Alma Dray",
+                "poster": "alma"
+            }
+        },
+        {
+            "name": "Morgan Freeman",
+            "character": {
+                "name": "Thaddeus Bradley",
+                "poster": "bradley"
+            }
+        },
+        {
+            "name": "Michael Caine",
+            "character": {
+                "name": "Arthur Tressler",
+                "poster": "tressler"
+            }
+        },
+        {
+            "name": "Michael Kelly",
+            "character": {
+                "name": "Agent Fuller"
+            }
+        }
+    ],
+    "synopsis": "An F.B.I. Agent and an Interpol Detective track a team of illusionists who pull off bank heists during their performances, and reward their audiences with the money.",
+    "collections": ["Real Life"],
+    "type": "Film",
+    "sort": 201305
+}

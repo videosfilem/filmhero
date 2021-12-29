@@ -1,0 +1,120 @@
+{
+    "id": 221,
+    "title": "Scott Pilgrim vs. the World",
+    "poster": "scott_pilgrim",
+    "trailer": "7wd5KEaOtm4",
+    "genres": [
+        "Fantasy",
+        "Comedy"
+    ],
+    "production": [
+        "Universal Pictures"
+    ],
+    "director": "Edgar Wright",
+    "producers": "Nira Park, Marc Platt, Edgar Wright",
+    "writtens": "Michael Bacall, Edgar Wright",
+    "music": "Nigel Godrich",
+    "cinema": "Bill Pope",
+    "year": 2010,
+    "time": 112,
+    "country": "USA",
+    "budget": {
+        "value": 60,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 49,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Michael Cera",
+            "character": {
+                "name": "Scott Pilgrim",
+                "poster": "scott"
+            }
+        },
+        {
+            "name": "Mary Elizabeth Winstead",
+            "character": {
+                "name": "Ramona Flowers"
+            }
+        },
+        {
+            "name": "Kieran Culkin",
+            "character": {
+                "name": "Wallace Wells"
+            }
+        },
+        {
+            "name": "Anna Kendrick",
+            "character": {
+                "name": "Stacey Pilgrim"
+            }
+        },
+        {
+            "name": "Brie Larson",
+            "character": {
+                "name": "Natalie V. \"Envy\" Adams"
+            }
+        },
+        {
+            "name": "Alison Pill",
+            "character": {
+                "name": "Kim Pine"
+            }
+        },
+        {
+            "name": "Satya Bhabha",
+            "character": {
+                "name": "Matthew Patel",
+                "poster": "patel"
+            }
+        },
+        {
+            "name": "Chris Evans",
+            "character": {
+                "name": "Lucas Lee",
+                "poster": "lee"
+            }
+        },
+        {
+            "name": "Brandon Routh",
+            "character": {
+                "name": "Todd Ingram",
+                "poster": "todd"
+            }
+        },
+        {
+            "name": "Mae Whitman",
+            "character": {
+                "name": "Roxy Richter",
+                "poster": "roxy"
+            }
+        },
+        {
+            "name": "Shota Saito",
+            "character": {
+                "name": "Ken Katayanagi",
+                "poster": "katayanagi"
+            }
+        },
+        {
+            "name": "Keita Saito",
+            "character": {
+                "name": "Kyle Katayanagi",
+                "poster": "katayanagi"
+            }
+        },
+        {
+            "name": "Jason Schwartzman",
+            "character": {
+                "name": "Gideon Graves"
+            }
+        }
+    ],
+    "synopsis": "In a magically realistic version of Toronto, a young man must defeat his new girlfriend's seven evil exes one by one in order to win her heart.",
+    "collections": ["Superpower"],
+    "type": "Film",
+    "sort": 201008
+}

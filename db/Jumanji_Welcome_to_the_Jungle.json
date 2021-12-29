@@ -1,0 +1,84 @@
+{
+    "id": 199,
+    "title": "Jumanji: Welcome to the Jungle",
+    "poster": "jumanji_2",
+    "trailer": "2QKg5SZ_35I",
+    "genres": [
+        "Fantasy",
+        "Adventures",
+        "Comedy"
+    ],
+    "production": [
+        "Columbia Pictures"
+    ],
+    "director": "Jake Kasdan",
+    "producers": "Matt Tolmach, William Teitler",
+    "writtens": "Chris McKenna, Erik Sommers, Scott Rosenberg, Jeff Pinkner",
+    "music": "Henry Jackman",
+    "cinema": "Gyula Pados",
+    "year": 2017,
+    "time": 119,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 90,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 962,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Dwayne Johnson",
+            "character": {
+                "name": "Spencer"
+            }
+        },
+        {
+            "name": "Kevin Hart",
+            "character": {
+                "name": "Fridge"
+            }
+        },
+        {
+            "name": "Jack Black",
+            "character": {
+                "name": "Bethany"
+            }
+        },
+        {
+            "name": "Karen Gillan",
+            "character": {
+                "name": "Martha"
+            }
+        },
+        {
+            "name": "Rhys Darby",
+            "character": {
+                "name": "Nigel"
+            }
+        },
+        {
+            "name": "Bobby Cannavale",
+            "character": {
+                "name": "Van Pelt"
+            }
+        },
+        {
+            "name": "Nick Jonas",
+            "character": {
+                "name": "Alex"
+            }
+        }
+    ],
+    "synopsis": "Four teenagers are sucked into a magical video game, and the only way they can escape is to work together to finish the game.",
+    "collections": ["Fantasy World"],
+    "parts": {
+        "title": "Jumanji",
+        "part": 2
+    },
+    "type": "Film",
+    "sort": 201712
+}

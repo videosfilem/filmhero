@@ -1,0 +1,87 @@
+{
+    "id": 316,
+    "title": "Ratatouille",
+    "poster": "ratatouille",
+    "trailer": "NgsQ8mVkN8w",
+    "genres": [
+        "Adventures",
+        "Comedy"
+    ],
+    "production": [
+        "Pixar Animation"
+    ],
+    "director": "Brad Bird, Jan Pinkava",
+    "producers": "Bradford Lewis",
+    "writtens": "Brad Bird",
+    "music": "Michael Giacchino",
+    "year": 2007,
+    "time": 111,
+    "country": "USA",
+    "budget": {
+        "value": 150,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 624,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Patton Oswalt",
+            "character": {
+                "name": "Remy"
+            }
+        },
+        {
+            "name": "Ian Holm",
+            "character": {
+                "name": "Skinner"
+            }
+        },
+        {
+            "name": "Lou Romano",
+            "character": {
+                "name": "Linguini"
+            }
+        },
+        {
+            "name": "Brian Dennehy",
+            "character": {
+                "name": "Django"
+            }
+        },
+        {
+            "name": "Peter Sohn",
+            "character": {
+                "name": "Emile"
+            }
+        },
+        {
+            "name": "Peter O'Toole",
+            "character": {
+                "name": "Anton Ego"
+            }
+        },
+        {
+            "name": "Brad Garrett",
+            "character": {
+                "name": "Gusteau"
+            }
+        },
+        {
+            "name": "Janeane Garofalo",
+            "character": {
+                "name": "Colette"
+            }
+        },
+        {
+            "name": "Will Arnett",
+            "character": {
+                "name": "Horst"
+            }
+        }
+    ],
+    "synopsis": "A rat who can cook makes an unusual alliance with a young kitchen worker at a famous Paris restaurant.",
+    "type": "Animation",
+    "sort": 200706
+}

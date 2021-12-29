@@ -1,0 +1,100 @@
+{
+    "id": 287,
+    "title": "Kung Fu Panda",
+    "poster": "kungfu_panda",
+    "trailer": "NRc-ze7Wrxw",
+    "genres": [
+        "Action",
+        "Comedy"
+    ],
+    "production": [
+        "DreamWorks Animation"
+    ],
+    "director": "Mark Osborne, John Stevenson",
+    "producers": "Melissa Cobb",
+    "writtens": "Jonathan Aibel, Glenn Berger",
+    "music": "John Powell, Hans Zimmer",
+    "cinema": "Yong Duk Jhun",
+    "year": 2008,
+    "time": 92,
+    "countries": [
+        "USA",
+        "China"
+    ],
+    "budget": {
+        "value": 130,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 632,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Jack Black",
+            "character": {
+                "name": "Po"
+            }
+        },
+        {
+            "name": "Dustin Hoffman",
+            "character": {
+                "name": "Shifu"
+            }
+        },
+        {
+            "name": "Angelina Jolie",
+            "character": {
+                "name": "Tigress"
+            }
+        },
+        {
+            "name": "Ian McShane",
+            "character": {
+                "name": "Tai Lung"
+            }
+        },
+        {
+            "name": "Jackie Chan",
+            "character": {
+                "name": "Monkey"
+            }
+        },
+        {
+            "name": "Seth Rogen",
+            "character": {
+                "name": "Mantis"
+            }
+        },
+        {
+            "name": "Lucy Liu",
+            "character": {
+                "name": "Viper"
+            }
+        },
+        {
+            "name": "David Cross",
+            "character": {
+                "name": "Crane"
+            }
+        },
+        {
+            "name": "Randall Duk Kim",
+            "character": {
+                "name": "Oogway"
+            }
+        }
+    ],
+    "synopsis": "The Dragon Warrior has to clash against the savage Tai Lung as China's fate hangs in the balance. However, the Dragon Warrior mantle is supposedly mistaken to be bestowed upon an obese panda who is a novice in martial arts.",
+    "collections": ["Arts"],
+    "awards": [
+        {
+            "title": "Critics Choice Award",
+            "nominations": [
+                "Best Animated Feature"
+            ]
+        }
+    ],
+    "type": "Animation",
+    "sort": 200806
+}

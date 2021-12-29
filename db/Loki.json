@@ -1,0 +1,102 @@
+{
+    "id": 182,
+    "title": "Loki",
+    "poster": "loki",
+    "genres": [
+        "Adventures",
+        "Fantasy"
+    ],
+    "production": [
+        "Disney+",
+        "Marvel Studios"
+    ],
+    "director": "Kate Herron",
+    "producers": "Kevin Feige, Louis D'Esposito, Victoria Alonso, Stephen Broussard",
+    "writtens": "Michael Waldron, Bisha K. Ali, Eric Martin, Tom Kauffman",
+    "music": "Natalie Holt",
+    "cinema": "Autumn Durald Arkapaw",
+    "year": 2021,
+    "time": 300,
+    "countries": [
+        "USA"
+    ],
+    "actors": [
+        {
+            "name": "Tom Hiddleston",
+            "character": {
+                "name": "Loki",
+                "poster": "loki"
+            }
+        },
+        {
+            "name": "Gugu Mbatha-Raw",
+            "character": {
+                "name": "Ravonna Renslayer",
+                "poster": "ravonna"
+            }
+        },
+        {
+            "name": "Sophia Di Martino",
+            "character": {
+                "name": "Sylvie",
+                "poster": "sylvie"
+            }
+        },
+        {
+            "name": "Owen Wilson",
+            "character": {
+                "name": "Mobius",
+                "poster": "mobius"
+            }
+        },
+        {
+            "name": "Wunmi Mosaku",
+            "character": {
+                "name": "Hunter B-15",
+                "poster": "b-15"
+            }
+        },
+        {
+            "name": "Lauren Revard",
+            "character": {
+                "name": "Miss Minutes",
+                "poster": "miss-minutes"
+            }
+        },
+        {
+            "name": "Richard E. Grant",
+            "character": {
+                "name": "Classic Loki",
+                "poster": "classic-loki"
+            }
+        },
+        {
+            "name": "Jack Veal",
+            "character": {
+                "name": "Kid Loki",
+                "poster": "kid-loki"
+            }
+        },
+        {
+            "name": "Jonathan Majors",
+            "character": {
+                "name": "He Who Remains",
+                "poster": "he-who-remains"
+            }
+        }
+    ],
+    "synopsis": "The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of «Avengers: Endgame».",
+    "parts": {
+        "title": "Marvel Cinematic Universe",
+        "part": 26
+    },
+    "type": "Series",
+    "sort": 202106,
+    "seasons": [
+        {
+            "season": 1,
+            "episodes": 6,
+            "trailer": "nW948Va-l10"
+        }
+    ]
+}

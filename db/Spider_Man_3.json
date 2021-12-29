@@ -1,0 +1,102 @@
+{
+    "id": 266,
+    "title": "Spider-Man 3",
+    "poster": "raimi_spider_man_3",
+    "trailer": "wPosLpgMtTY",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "Columbia Pictures",
+        "Marvel Enterprises"
+    ],
+    "director": "Sam Raimi",
+    "producers": "Avi Arad, Laura Ziskin, Grant Curtis",
+    "writtens": "Sam Raimi, Ivan Raimi, Alvin Sargent",
+    "music": "Christopher Young",
+    "cinema": "Bill Pope",
+    "year": 2007,
+    "time": 139,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 258,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 895,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Tobey Maguire",
+            "character": {
+                "name": "Spider-Man / Peter Parker"
+            }
+        },
+        {
+            "name": "Kirsten Dunst",
+            "character": {
+                "name": "Mary Jane Watson"
+            }
+        },
+        {
+            "name": "James Franco",
+            "character": {
+                "name": "New Goblin / Harry Osborn"
+            }
+        },
+        {
+            "name": "Thomas Haden Church",
+            "character": {
+                "name": "Sandman / Flint Marko"
+            }
+        },
+        {
+            "name": "Topher Grace",
+            "character": {
+                "name": "Venom / Eddie Brock"
+            }
+        },
+        {
+            "name": "Bryce Dallas Howard",
+            "character": {
+                "name": "Gwen Stacy"
+            }
+        },
+        {
+            "name": "Rosemary Harris",
+            "character": {
+                "name": "May Parker"
+            }
+        },
+        {
+            "name": "J.K. Simmons",
+            "character": {
+                "name": "J. Jonah Jameson"
+            }
+        },
+        {
+            "name": "James Cromwell",
+            "character": {
+                "name": "Captain Stacy"
+            }
+        },
+        {
+            "name": "Dylan Baker",
+            "character": {
+                "name": "Dr. Curt Connors"
+            }
+        }
+    ],
+    "synopsis": "A strange black entity from another world bonds with Peter Parker and causes inner turmoil as he contends with new villains, temptations, and revenge.",
+    "collections": ["Superpower"],
+    "parts": {
+        "title": "Raimi's Spider-Man",
+        "part": 3
+    },
+    "type": "Film",
+    "sort": 200704
+}

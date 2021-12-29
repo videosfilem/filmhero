@@ -1,0 +1,65 @@
+{
+    "id": 254,
+    "title": "Onward",
+    "poster": "onward",
+    "trailer": "gn5QmllRCn4",
+    "genres": [
+        "Fantasy"
+    ],
+    "production": [
+        "Pixar Animation"
+    ],
+    "director": "Dan Scanlon",
+    "producers": "Kori Rae",
+    "writtens": "Dan Scanlon, Jason Headley, Keith Bunin",
+    "music": "Jeff Danna",
+    "cinema": "Sharon Calahan, Adam Habib",
+    "year": 2020,
+    "time": 102,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 175,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 141,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Tom Holland",
+            "character": {
+                "name": "Ian Lightfoot"
+            }
+        },
+        {
+            "name": "Chris Pratt",
+            "character": {
+                "name": "Barley Lightfoot"
+            }
+        },
+        {
+            "name": "Julia Louis Dreyfus",
+            "character": {
+                "name": "Laurel Lightfoot"
+            }
+        },
+        {
+            "name": "Mel Rodriguez",
+            "character": {
+                "name": "Colt Bronco"
+            }
+        },
+        {
+            "name": "Kyle Bornheimer",
+            "character": {
+                "name": "Wilden Lightfoot"
+            }
+        }
+    ],
+    "synopsis": "Two elven brothers embark on a quest to bring their father back for one day.",
+    "type": "Animation",
+    "sort": 202002
+}

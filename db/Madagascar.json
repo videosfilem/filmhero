@@ -1,0 +1,83 @@
+{
+    "id": 250,
+    "title": "Madagascar",
+    "poster": "madagascar",
+    "trailer": "orAqhC-Hp_o",
+    "genres": [
+        "Adventures",
+        "Comedy"
+    ],
+    "production": [
+        "DreamWorks Animation"
+    ],
+    "director": "Eric Darnell, Tom McGrath",
+    "producers": "Mireille Soria",
+    "writtens": "Mark Burton, Billy Frolick, Eric Darnell, Tom McGrath",
+    "music": "Hans Zimmer",
+    "year": 2005,
+    "time": 86,
+    "country": "USA",
+    "budget": {
+        "value": 75,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 542,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Ben Stiller",
+            "character": {
+                "name": "Alex",
+                "poster": "alex"
+            }
+        },
+        {
+            "name": "Chris Rock",
+            "character": {
+                "name": "Marty",
+                "poster": "marty"
+            }
+        },
+        {
+            "name": "David Schwimmer",
+            "character": {
+                "name": "Melman",
+                "poster": "melman"
+            }
+        },
+        {
+            "name": "Jada Pinkett Smith",
+            "character": {
+                "name": "Gloria",
+                "poster": "gloria"
+            }
+        },
+        {
+            "name": "Sacha Baron Cohen",
+            "character": {
+                "name": "Julien"
+            }
+        },
+        {
+            "name": "Tom McGrath",
+            "character": {
+                "name": "Skipper"
+            }
+        },
+        {
+            "name": "Chris Miller",
+            "character": {
+                "name": "Kowalski"
+            }
+        }
+    ],
+    "synopsis": "A group of animals who have spent all their life in a New York zoo end up in the jungles of Madagascar, and must adjust to living in the wild.",
+    "parts": {
+        "title": "Madagascar",
+        "part": 1
+    },
+    "type": "Animation",
+    "sort": 200506
+}

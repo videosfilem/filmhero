@@ -1,0 +1,82 @@
+{
+    "id": 299,
+    "title": "Love and Monsters",
+    "poster": "love_and_monsters",
+    "trailer": "1dzGhJ5QGsQ",
+    "genres": [
+        "Adventures",
+        "Action",
+        "Comedy"
+    ],
+    "production": [
+        "Paramount Pictures"
+    ],
+    "director": "Michael Matthews",
+    "producers": "Dan Cohen, Shawn Levy",
+    "writtens": "Brian Duffield, Matthew Robinson",
+    "music": "Marco Beltrami, Marcus Trumpp",
+    "cinema": "Lachlan Milne",
+    "year": 2020,
+    "time": 109,
+    "countries": [
+        "Canada",
+        "USA",
+        "Australia"
+    ],
+    "budget": {
+        "value": 30,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 1,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Dylan O'Brien",
+            "character": {
+                "name": "Joel"
+            }
+        },
+        {
+            "name": "Jessica Henwick",
+            "character": {
+                "name": "Aimee"
+            }
+        },
+        {
+            "name": "Michael Rooker",
+            "character": {
+                "name": "Clyde"
+            }
+        },
+        {
+            "name": "Dan Ewing",
+            "character": {
+                "name": "Cap"
+            }
+        },
+        {
+            "name": "Ariana Greenblatt",
+            "character": {
+                "name": "Minnow"
+            }
+        },
+        {
+            "name": "Ellen Hollman",
+            "character": {
+                "name": "Dana"
+            }
+        },
+        {
+            "name": "Tre Hale",
+            "character": {
+                "name": "Rocko"
+            }
+        }
+    ],
+    "synopsis": "Seven years after he survived the monster apocalypse, lovably hapless Joel leaves his cozy underground bunker behind on a quest to reunite with his ex.",
+    "collections": ["Monsters"],
+    "type": "Film",
+    "sort": 202010
+}

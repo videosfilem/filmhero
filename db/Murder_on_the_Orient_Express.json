@@ -1,0 +1,149 @@
+{
+    "id": 153,
+    "title": "Murder on the Orient Express",
+    "poster": "murder_on_the_orient_express",
+    "trailer": "Mq4m3yAoW8E",
+    "genres": [
+        "Crime",
+        "Drama"
+    ],
+    "production": [
+        "20th Century FOX"
+    ],
+    "director": "Kenneth Branagh",
+    "producers": "Ridley Scott, Mark Gordon, Simon Kinberg, Kenneth Branagh",
+    "writtens": "Michael Green",
+    "music": "Patrick Doyle",
+    "cinema": "Haris Zambarloukos",
+    "year": 2017,
+    "time": 114,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 55,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 353,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Kenneth Branagh",
+            "character": {
+                "name": "Hercule Poirot",
+                "poster": "hercule"
+            }
+        },
+        {
+            "name": "Penelope Cruz",
+            "character": {
+                "name": "Pilar Estravados",
+                "poster": "pilar"
+            }
+        },
+        {
+            "name": "Willem Dafoe",
+            "character": {
+                "name": "Gerhard Hardman",
+                "poster": "gergard"
+            }
+        },
+        {
+            "name": "Judi Dench",
+            "character": {
+                "name": "Princess Dragomiroff",
+                "poster": "dragomiroff"
+            }
+        },
+        {
+            "name": "Johnny Depp",
+            "character": {
+                "name": "Edward Ratchett",
+                "poster": "ratchett"
+            }
+        },
+        {
+            "name": "Josh Gad",
+            "character": {
+                "name": "Hector MacQueen",
+                "poster": "hector"
+            }
+        },
+        {
+            "name": "Derek Jacobi",
+            "character": {
+                "name": "Edward Henry Masterman",
+                "poster": "edward"
+            }
+        },
+        {
+            "name": "Leslie Odom Jr.",
+            "character": {
+                "name": "Dr. Arbuthnot",
+                "poster": "arbuthnot"
+            }
+        },
+        {
+            "name": "Michelle Pfeiffer",
+            "character": {
+                "name": "Caroline Hubbard",
+                "poster": "caroline"
+            }
+        },
+        {
+            "name": "Daisy Ridley",
+            "character": {
+                "name": "Miss Mary Debenham",
+                "poster": "mary"
+            }
+        },
+        {
+            "name": "Tom Bateman",
+            "character": {
+                "name": "Bouc",
+                "poster": "bouc"
+            }
+        },
+        {
+            "name": "Marwan Kenzari",
+            "character": {
+                "name": "Pierre Michel",
+                "poster": "pierre"
+            }
+        },
+        {
+            "name": "Olivia Colman",
+            "character": {
+                "name": "Hildegarde Schmidt",
+                "poster": "hildegarde"
+            }
+        },
+        {
+            "name": "Lucy Boynton",
+            "character": {
+                "name": "Countess Elena Andrenyi",
+                "poster": "elena"
+            }
+        },
+        {
+            "name": "Manuel Garcia-Rulfo",
+            "character": {
+                "name": "Biniamino Marquez",
+                "poster": "biniamino"
+            }
+        },
+        {
+            "name": "Sergei Polunin",
+            "character": {
+                "name": "Count Rudolph Andrenyi",
+                "poster": "rudolph"
+            }
+        }
+    ],
+    "synopsis": "When a murder occurs on the train on which he's travelling, celebrated detective Hercule Poirot is recruited to solve the case.",
+    "collections": ["Detectives and Agents"],
+    "type": "Film",
+    "sort": 201711
+}

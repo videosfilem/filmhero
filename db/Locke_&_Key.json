@@ -1,0 +1,94 @@
+{
+    "id": 305,
+    "title": "Locke & Key",
+    "poster": "locke_key",
+    "genres": [
+        "Fantasy",
+        "Drama"
+    ],
+    "production": [
+        "Netflix"
+    ],
+    "director": "Michael Morris, Vincenzo Natali, Tim Southam, Mark Tonderai, Dawn Wilkinson",
+    "producers": "Ra'uf Glasgow, Kevin Lafferty, Nishpeksh Mehra",
+    "writtens": "Meredith Averill, Carlton Cuse, Aron Eli Coleite",
+    "music": "Torin Borrowdale",
+    "cinema": "Tico Poulakakis, Dylan Macleod, Colin Hoult",
+    "year": 2020,
+    "time": 1056,
+    "countries": [
+        "USA",
+        "Canada"
+    ],
+    "actors": [
+        {
+            "name": "Darby Stanchfield",
+            "character": {
+                "name": "Nina Locke",
+                "poster": "nina"
+            }
+        },
+        {
+            "name": "Connor Jessup",
+            "character": {
+                "name": "Tyler Locke",
+                "poster": "tyler"
+            }
+        },
+        {
+            "name": "Emilia Jones",
+            "character": {
+                "name": "Kinsey Locke",
+                "poster": "kinsey"
+            }
+        },
+        {
+            "name": "Jackson Robert Scott",
+            "character": {
+                "name": "Bode Locke",
+                "poster": "bode"
+            }
+        },
+        {
+            "name": "Petrice Jones",
+            "character": {
+                "name": "Scot Cavendish"
+            }
+        },
+        {
+            "name": "Sherri Saum",
+            "character": {
+                "name": "Ellie Whedon"
+            }
+        },
+        {
+            "name": "Genevieve Kang",
+            "character": {
+                "name": "Jackie Veda"
+            }
+        },
+        {
+            "name": "Laysla De Oliveira",
+            "character": {
+                "name": "Dodge",
+                "poster": "dodge"
+            }
+        }
+    ],
+    "synopsis": "After their father is murdered under mysterious circumstances, the three Locke siblings and their mother move into their ancestral home, Keyhouse, which they discover is full of magical keys that may be connected to their father's death.",
+    "collections": ["Fantasy World"],
+    "type": "Series",
+    "seasons": [
+        {
+            "season": 1,
+            "episodes": 10,
+            "trailer": "_EonRi0yQOE"
+        },
+        {
+            "season": 2,
+            "episodes": 10,
+            "trailer": "EZKWJ01jNOI"
+        }
+    ],
+    "sort": 202002
+}

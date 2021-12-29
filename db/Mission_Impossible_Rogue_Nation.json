@@ -1,0 +1,95 @@
+{
+    "id": 7,
+    "title": "Mission: Impossible - Rogue Nation",
+    "poster": "mi_5",
+    "trailer": "gOW_azQbOjw",
+    "genres": [
+        "Action",
+        "Adventures"
+    ],
+    "production": [
+        "Paramount Pictures"
+    ],
+    "director": "Christopher McQuarrie",
+    "producers": "Tom Cruise, Bryan Burk, J.J. Abrams, David Ellison, Dana Goldberg, Don Granger",
+    "writtens": "Christopher McQuarrie",
+    "music": "Joe Kraemer",
+    "cinema": "Robert Elswit",
+    "year": 2015,
+    "time": 131,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 150,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 683,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Tom Cruise",
+            "character": {
+                "name": "Ethan Hunt",
+                "poster": "ethan"
+            }
+        },
+        {
+            "name": "Jeremy Renner",
+            "character": {
+                "name": "William Brandt",
+                "poster": "brandt"
+            }
+        },
+        {
+            "name": "Simon Pegg",
+            "character": {
+                "name": "Benji Dunn",
+                "poster": "benji"
+            }
+        },
+        {
+            "name": "Rebecca Ferguson",
+            "character": {
+                "name": "Ilsa Faust",
+                "poster": "isla"
+            }
+        },
+        {
+            "name": "Ving Rhames",
+            "character": {
+                "name": "Luther Stickell",
+                "poster": "luther"
+            }
+        },
+        {
+            "name": "Sean Harris",
+            "character": {
+                "name": "Lane",
+                "poster": "lane"
+            }
+        },
+        {
+            "name": "Simon McBurney",
+            "character": {
+                "name": "Atlee"
+            }
+        },
+        {
+            "name": "Tom  Hollander",
+            "character": {
+                "name": "Prime Minister"
+            }
+        }
+    ],
+    "synopsis": "Ethan and team take on their most impossible mission yet, eradicating the Syndicate - an International rogue organization as highly skilled as they are, committed to destroying the IMF.",
+    "collections": ["Detectives and Agents"],
+    "parts": {
+        "title": "Mission: Impossible",
+        "part": 5
+    },
+    "type": "Film",
+    "sort": 201508
+}

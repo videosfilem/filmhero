@@ -1,0 +1,72 @@
+{
+    "id": 215,
+    "title": "Sapphire Blue",
+    "poster": "taimless_2",
+    "trailer": "nUFNJnNIIjs",
+    "genres": [
+        "Drama",
+        "Fantasy",
+        "Mystery"
+    ],
+    "production": [
+        "TMG"
+    ],
+    "director": "Felix Fuchssteiner, Katharina Schöde",
+    "producers": "Philipp Budweg, Tom Blieninger, Hans W. Geißendörfer,  Markus Zimmer",
+    "writtens": "Katharina Schöde",
+    "music": "Philipp Fabian Kölmel",
+    "cinema": "Sonja Rom",
+    "year": 2014,
+    "time": 116,
+    "countries": [
+        "Germany"
+    ],
+    "actors": [
+        {
+            "name": "Josefine Preuß",
+            "character": {
+                "name": "Lucy Montrose"
+            }
+        },
+        {
+            "name": "Florian Bartholomäi",
+            "character": {
+                "name": "Paul de Villiers"
+            }
+        },
+        {
+            "name": "Peter Simonischek",
+            "character": {
+                "name": "Graf von St. Germain"
+            }
+        },
+        {
+            "name": "Pierre Kiwitt",
+            "character": {
+                "name": "Lancelot de Villiers"
+            }
+        },
+        {
+            "name": "Maria Ehrich",
+            "character": {
+                "name": "Gwendolyn Shepherd"
+            }
+        }
+    ],
+    "synopsis": "Gwen has just discovered, that she's the final member of the secret time-traveling Circle of Twelve. Now she has to juggle with constant trips to the past, her relationships with Gideon and figuring out dark secrets surrounding the Circle.",
+    "collections": ["Fantasy World"],
+    "awards": [
+        {
+            "title": "Jupiter Award",
+            "nominations": [
+                "Best German Actress"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Edelstein Trilogie",
+        "part": 2
+    },
+    "type": "Film",
+    "sort": 201408
+}

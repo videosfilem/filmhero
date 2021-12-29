@@ -1,0 +1,98 @@
+{
+    "id": 59,
+    "title": "Iron Man 3",
+    "poster": "iron_man_3",
+    "trailer": "Ke1Y3P9D0Bc",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "Walt Disney Pictures",
+        "Marvel Studios"
+    ],
+    "director": "Shane Black",
+    "producers": "Kevin Feige",
+    "writtens": "Shane Black, Drew Pearce",
+    "music": "Brian Tyler",
+    "cinema": "John Toll",
+    "year": 2013,
+    "time": 131,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 200,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 1.2,
+        "suffix": "billion"
+    },
+    "actors": [
+        {
+            "name": "Robert Downey Jr.",
+            "character": {
+                "name": "Tony Stark / Iron Man",
+                "poster": "ironman"
+            }
+        },
+        {
+            "name": "Gwyneth Paltrow",
+            "character": {
+                "name": "Pepper Potts",
+                "poster": "pepper"
+            }
+        },
+        {
+            "name": "Don Cheadle",
+            "character": {
+                "name": "Colonel James Rhodes",
+                "poster": "warmachine"
+            }
+        },
+        {
+            "name": "Guy Pearce",
+            "character": {
+                "name": "Aldrich Killian",
+                "poster": "killian"
+            }
+        },
+        {
+            "name": "Rebecca Hall",
+            "character": {
+                "name": "Maya Hansen"
+            }
+        },
+        {
+            "name": "Jon Favreau",
+            "character": {
+                "name": "Happy Hogan"
+            }
+        },
+        {
+            "name": "Ben Kingsley",
+            "character": {
+                "name": "Trevor Slattery",
+                "poster": "slattery"
+            }
+        }
+    ],
+    "synopsis": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Comic-to-Film Motion Picture",
+                "Best Actor",
+                "Best Supporting Actor"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Marvel Cinematic Universe",
+        "part": 7
+    },
+    "type": "Film",
+    "sort": 201305
+}

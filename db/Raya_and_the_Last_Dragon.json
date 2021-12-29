@@ -1,0 +1,77 @@
+{
+    "id": 298,
+    "title": "Raya and the Last Dragon",
+    "poster": "raya",
+    "trailer": "1VIZ89FEjYI",
+    "genres": [
+        "Adventures",
+        "Fantasy"
+    ],
+    "production": [
+        "Walt Disney Pictures"
+    ],
+    "director": "Don Hall, Carlos López Estrada",
+    "producers": "Peter Del Vecho",
+    "writtens": "Qui Nguyen, Adele Lim",
+    "music": "James Newton Howard",
+    "cinema": "Rob Dressel",
+    "year": 2021,
+    "time": 107,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 100,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 130,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Kelly Marie Tran",
+            "character": {
+                "name": "Raya",
+                "poster": "raya"
+            }
+        },
+        {
+            "name": "Awkwafina",
+            "character": {
+                "name": "Sisu",
+                "poster": "sisu"
+            }
+        },
+        {
+            "name": "Izaac Wang",
+            "character": {
+                "name": "Boun",
+                "poster": "boun"
+            }
+        },
+        {
+            "name": "Gemma Chan",
+            "character": {
+                "name": "Namaari",
+                "poster": "namaari"
+            }
+        },
+        {
+            "name": "Daniel Dae Kim",
+            "character": {
+                "name": "Benja"
+            }
+        },
+        {
+            "name": "Benedict Wong",
+            "character": {
+                "name": "Tong"
+            }
+        }
+    ],
+    "synopsis": "In a realm known as Kumandra, a re-imagined Earth inhabited by an ancient civilization, a warrior named Raya is determined to find the last dragon.",
+    "collections": ["Fantasy World"],
+    "type": "Film",
+    "sort": 202103
+}

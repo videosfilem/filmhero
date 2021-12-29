@@ -1,0 +1,94 @@
+{
+    "id": 141,
+    "title": "Prince of Persia: The Sand of Time",
+    "poster": "prince_of_persia",
+    "trailer": "bZ7Li5w2I-k",
+    "genres": [
+        "Fantasy",
+        "Action"
+    ],
+    "production": [
+        "Walt Disney Pictures"
+    ],
+    "director": "Mike Newell",
+    "producers": "Jerry Bruckheimer",
+    "writtens": "Boaz Yakin, Doug Miro, Carlo Bernard",
+    "music": "Harry Gregson-Williams",
+    "cinema": "John Seale",
+    "year": 2010,
+    "time": 116,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 150,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 336,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Jake Gyllenhaal",
+            "character": {
+                "name": "Dastan",
+                "poster": "dastan"
+            }
+        },
+        {
+            "name": "Gemma Arterton",
+            "character": {
+                "name": "Tamina",
+                "poster": "tamina"
+            }
+        },
+        {
+            "name": "Ben Kingsley",
+            "character": {
+                "name": "Nizam",
+                "poster": "nizam"
+            }
+        },
+        {
+            "name": "Alfred Molina",
+            "character": {
+                "name": "Sheik Amar"
+            }
+        },
+        {
+            "name": "Steve Toussaint",
+            "character": {
+                "name": "Seso"
+            }
+        },
+        {
+            "name": "Toby Kebbell",
+            "character": {
+                "name": "Garsiv"
+            }
+        },
+        {
+            "name": "Richard Coyle",
+            "character": {
+                "name": "Tus"
+            }
+        },
+        {
+            "name": "Ronald Pickup",
+            "character": {
+                "name": "King Sharaman"
+            }
+        },
+        {
+            "name": "Reece Ritchie",
+            "character": {
+                "name": "Bis"
+            }
+        }
+    ],
+    "synopsis": "A young fugitive Prince and Princess must stop a villain who unknowingly threatens to destroy the world with a special dagger that enables the magic sand inside to reverse time.",
+    "collections": ["Fantasy World"],
+    "type": "Film",
+    "sort": 201003
+}

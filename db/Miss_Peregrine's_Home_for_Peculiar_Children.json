@@ -1,0 +1,102 @@
+{
+    "id": 148,
+    "title": "Miss Peregrine's Home for Peculiar Children",
+    "poster": "miss_peregrin",
+    "trailer": "tV_IhWE4LP0",
+    "genres": [
+        "Fantasy",
+        "Adventures",
+        "Drama"
+    ],
+    "production": [
+        "20th Century FOX"
+    ],
+    "director": "Tim Burton",
+    "producers": "Peter Chernin, Jenno Topping",
+    "writtens": "Jane Goldman",
+    "music": "Mike Higham, Matthew Margeson",
+    "cinema": "Bruno Delbonnel",
+    "year": 2016,
+    "time": 127,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 110,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 296,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Eva Green",
+            "character": {
+                "name": "Miss Peregrine",
+                "poster": "peregrine"
+            }
+        },
+        {
+            "name": "Asa Butterfield",
+            "character": {
+                "name": "Jake",
+                "poster": "jake"
+            }
+        },
+        {
+            "name": "Samuel L. Jackson",
+            "character": {
+                "name": "Barron",
+                "poster": "barron"
+            }
+        },
+        {
+            "name": "Ella Purnell",
+            "character": {
+                "name": "Emma",
+                "poster": "emma"
+            }
+        },
+        {
+            "name": "Judi Dench",
+            "character": {
+                "name": "Miss Avocet"
+            }
+        },
+        {
+            "name": "Allison Janney",
+            "character": {
+                "name": "Dr. Golan"
+            }
+        },
+        {
+            "name": "Chris O'Dowd",
+            "character": {
+                "name": "Frank"
+            }
+        },
+        {
+            "name": "Terence Stamp",
+            "character": {
+                "name": "Abe"
+            }
+        },
+        {
+            "name": "Finlay MacMillan",
+            "character": {
+                "name": "Enoch"
+            }
+        },
+        {
+            "name": "Lauren McCrostie",
+            "character": {
+                "name": "Olive"
+            }
+        }
+    ],
+    "synopsis": "When Jacob discovers clues to a mystery that stretches across time, he finds Miss Peregrine's Home for Peculiar Children. But the danger deepens after he gets to know the residents and learns about their special powers.",
+    "collections": ["Fantasy World"],
+    "type": "Film",
+    "sort": 201609
+}

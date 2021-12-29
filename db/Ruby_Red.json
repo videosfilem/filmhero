@@ -1,0 +1,76 @@
+{
+    "id": 214,
+    "title": "Ruby Red",
+    "poster": "taimless_1",
+    "trailer": "Q5YKSsl2hb0",
+    "genres": [
+        "Drama",
+        "Fantasy",
+        "Mystery"
+    ],
+    "production": [
+        "Lieblingsfilm"
+    ],
+    "director": "Felix Fuchssteiner",
+    "producers": "Philipp Budweg, Tom Blieninger, Hans W. Geißendörfer,  Markus Zimmer",
+    "writtens": "Katharina Schöde",
+    "music": "Philipp Fabian Kölmel",
+    "cinema": "Sonja Rom",
+    "year": 2013,
+    "time": 122,
+    "countries": [
+        "Germany"
+    ],
+    "actors": [
+        {
+            "name": "Josefine Preuß",
+            "character": {
+                "name": "Lucy Montrose"
+            }
+        },
+        {
+            "name": "Florian Bartholomäi",
+            "character": {
+                "name": "Paul de Villiers"
+            }
+        },
+        {
+            "name": "Uwe Kockisch",
+            "character": {
+                "name": "Falk de Villiers"
+            }
+        },
+        {
+            "name": "Johannes Silberschneider",
+            "character": {
+                "name": "Mr. Bernhard"
+            }
+        },
+        {
+            "name": "Gerlinde Locker",
+            "character": {
+                "name": "Lady Arista"
+            }
+        },
+        {
+            "name": "Laura Berlin",
+            "character": {
+                "name": "Charlotte Montrose"
+            }
+        },
+        {
+            "name": "Sibylle Canonica",
+            "character": {
+                "name": "Glenda Montrose"
+            }
+        }
+    ],
+    "synopsis": "On her 16th birthday, Gwendolyn Shepherd finds out that instead of her cousin, she has inherited a rare gene that allows her to travel through time.",
+    "collections": ["Fantasy World"],
+    "parts": {
+        "title": "Edelstein Trilogie",
+        "part": 1
+    },
+    "type": "Film",
+    "sort": 201303
+}

@@ -1,0 +1,113 @@
+{
+    "id": 130,
+    "title": "Percy Jackson & the Olympians: The Lightning Thief",
+    "poster": "percy_jackson",
+    "trailer": "xko1Mx5w4tg",
+    "genres": [
+        "Fantasy",
+        "Adventures"
+    ],
+    "production": [
+        "20th Century FOX"
+    ],
+    "director": "Chris Columbus",
+    "producers": "Karen Rosenfelt, Chris Columbus, Michael Barnathan, Mark Redcliff",
+    "writtens": "Craig Titley",
+    "music": "Christophe Beck",
+    "cinema": "Stephen Goldblatt",
+    "year": 2010,
+    "time": 95,
+    "countries": [
+        "USA",
+        "UK",
+        "Canada",
+        "Australia"
+    ],
+    "budget": {
+        "value": 95,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 226,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Logan Lerman",
+            "character": {
+                "name": "Percy Jackson",
+                "poster": "percy"
+            }
+        },
+        {
+            "name": "Brandon T. Jackson",
+            "character": {
+                "name": "Grover",
+                "poster": "grover"
+            }
+        },
+        {
+            "name": "Alexandra Daddario",
+            "character": {
+                "name": "Annabeth",
+                "poster": "annabeth"
+            }
+        },
+        {
+            "name": "Jake Abel",
+            "character": {
+                "name": "Luke"
+            }
+        },
+        {
+            "name": "Sean Bean",
+            "character": {
+                "name": "Zeus",
+                "poster": "zeus"
+            }
+        },
+        {
+            "name": "Pierce Brosnan",
+            "character": {
+                "name": "Mr. Brunner / Chiron",
+                "poster": "chiron"
+            }
+        },
+        {
+            "name": "Steve Coogan",
+            "character": {
+                "name": "Hades",
+                "poster": "hades"
+            }
+        },
+        {
+            "name": "Rosario Dawson",
+            "character": {
+                "name": "Persephone"
+            }
+        },
+        {
+            "name": "Melina Kanakaredes",
+            "character": {
+                "name": "Athena"
+            }
+        },
+        {
+            "name": "Catherine Keener",
+            "character": {
+                "name": "Sally Jackson"
+            }
+        },
+        {
+            "name": "Kevin McKidd",
+            "character": {
+                "name": "Poseidon",
+                "poster": "poseidon"
+            }
+        }
+    ],
+    "synopsis": "A teenager discovers he's the descendant of a Greek god and sets out on an adventure to settle an on-going battle between the gods.",
+    "collections": ["Fantasy World"],
+    "type": "Film",
+    "sort": 201002
+}

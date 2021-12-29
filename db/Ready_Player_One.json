@@ -1,0 +1,116 @@
+{
+    "id": 2,
+    "title": "Ready Player One",
+    "poster": "ready_player_one",
+    "trailer": "cSp1dM2Vj48",
+    "genres": [
+        "Sci-Fi",
+        "Adventures"
+    ],
+    "production": [
+        "Warner Bros. Pictures",
+        "Amblin Entertainment"
+    ],
+    "director": "Steven Spielberg",
+    "producers": "Donald De Line, Dan Farah",
+    "writtens": "Zak Penn, Ernest Cline",
+    "music": "Alan Silvestri",
+    "cinema": "Janusz Kaminski",
+    "year": 2018,
+    "time": 140,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 175,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 582,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Tye Sheridan",
+            "character": {
+                "name": "Parzival / Wade",
+                "poster": "parzival"
+            }
+        },
+        {
+            "name": "Olivia Cooke",
+            "character": {
+                "name": "Art3mis / Samantha",
+                "poster": "artemis"
+            }
+        },
+        {
+            "name": "Ben Mendelsohn",
+            "character": {
+                "name": "Sorrento",
+                "poster": "sorrento"
+            }
+        },
+        {
+            "name": "Lena Waithe",
+            "character": {
+                "name": "Aech / Helen",
+                "poster": "aech"
+            }
+        },
+        {
+            "name": "T.J. Miller",
+            "character": {
+                "name": "I-R0k"
+            }
+        },
+        {
+            "name": "Simon Pegg",
+            "character": {
+                "name": "Curator / Ogden Morrow"
+            }
+        },
+        {
+            "name": "Mark Rylance",
+            "character": {
+                "name": "Anorak / Halliday",
+                "poster": "anorak"
+            }
+        },
+        {
+            "name": "Philip Zhao",
+            "character": {
+                "name": "Sho",
+                "poster": "sho"
+            }
+        },
+        {
+            "name": "Win Morisaki",
+            "character": {
+                "name": "Daito",
+                "poster": "daito"
+            }
+        },
+        {
+            "name": "Hannah John-Kamen",
+            "character": {
+                "name": "F'Nale Zandor"
+            }
+        }
+    ],
+    "synopsis": "When the creator of a virtual reality world called the OASIS dies, he releases a video in which he challenges all OASIS users to find his Easter Egg, which will give the finder his fortune",
+    "collections": [
+        "Favorites",
+        "The World of Future"
+    ],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Science Fiction Film"
+            ]
+        }
+    ],
+    "type": "Film",
+    "sort": 201803
+}

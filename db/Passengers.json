@@ -1,0 +1,69 @@
+{
+    "id": 112,
+    "title": "Passengers",
+    "poster": "passengers",
+    "trailer": "7BWWWQzTpNU",
+    "genres": [
+        "Sci-Fi",
+        "Romance"
+    ],
+    "production": [
+        "Columbia Pictures"
+    ],
+    "director": "Morten Tyldum",
+    "producers": "Stephen Hamel, Michael Maher, Neal H. Moritz, Ori Marmur",
+    "writtens": "Jon Spaihts",
+    "music": "Thomas Newman",
+    "cinema": "Rodrigo Prieto",
+    "year": 2016,
+    "time": 116,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 110,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 303,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Jennifer Lawrence",
+            "character": {
+                "name": "Aurora Lane",
+                "poster": "aurora"
+            }
+        },
+        {
+            "name": "Chris Pratt",
+            "character": {
+                "name": "Jim Preston",
+                "poster": "jim"
+            }
+        },
+        {
+            "name": "Michael Sheen",
+            "character": {
+                "name": "Arthur"
+            }
+        },
+        {
+            "name": "Laurence Fishburne",
+            "character": {
+                "name": "Gus Mancuso"
+            }
+        },
+        {
+            "name": "Andy Garcia",
+            "character": {
+                "name": "Captain Norris"
+            }
+        }
+    ],
+    "synopsis": "A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers. As a result, two passengers are awakened 90 years early.",
+    "collections": ["Space Adventures"],
+    "type": "Film",
+    "sort": 201612
+}

@@ -1,0 +1,113 @@
+{
+    "id": 18,
+    "title": "Rogue One",
+    "poster": "rogue_one",
+    "trailer": "frdj1zb9sMY",
+    "genres": [
+        "SpaceOpera",
+        "Adventures"
+    ],
+    "production": [
+        "Lucasfilm",
+        "Walt Disney Pictures"
+    ],
+    "director": "Gareth Edwards",
+    "producers": "Simon Emanuel, Allison Shearmur",
+    "writtens": "Chris Weitz, Tony Gilroy",
+    "music": "Michael Giacchino",
+    "cinema": "Greig Fraser",
+    "year": 2016,
+    "time": 133,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 200,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 1.06,
+        "suffix": "billion"
+    },
+    "actors": [
+        {
+            "name": "Felicity Jones",
+            "character": {
+                "name": "Jyn Erso",
+                "poster": "jyn-erso"
+            }
+        },
+        {
+            "name": "Diego Luna",
+            "character": {
+                "name": "Cassian Andor",
+                "poster": "andor"
+            }
+        },
+        {
+            "name": "Alan Tudyk",
+            "character": {
+                "name": "K-2SO",
+                "poster": "k-2so"
+            }
+        },
+        {
+            "name": "Donnie Yen",
+            "character": {
+                "name": "Chirrut Imwe",
+                "poster": "chirrut"
+            }
+        },
+        {
+            "name": "Wen Jiang",
+            "character": {
+                "name": "Baze Malbus",
+                "poster": "malbus"
+            }
+        },
+        {
+            "name": "Ben Mendelsohn",
+            "character": {
+                "name": "Orson Krennic",
+                "poster": "krennic"
+            }
+        },
+        {
+            "name": "Guy Henry",
+            "character": {
+                "name": "Governor Tarkin"
+            }
+        },
+        {
+            "name": "Forest Whitaker",
+            "character": {
+                "name": "Saw Gerrera",
+                "poster": "saw-gerrera"
+            }
+        },
+        {
+            "name": "Mads Mikkelsen",
+            "character": {
+                "name": "Galen Erso",
+                "poster": "galen-erso"
+            }
+        }
+    ],
+    "synopsis": "The daughter of an Imperial scientist joins the Rebel Alliance in a risky move to steal the Death Star plans.",
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Science Fiction Film",
+                "Best Director",
+                "Best Special Effects"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Star Wars Universe",
+        "part": 4
+    },
+    "type": "Film",
+    "sort": 201612
+}

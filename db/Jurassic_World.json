@@ -1,0 +1,127 @@
+{
+    "id": 104,
+    "title": "Jurassic World",
+    "poster": "jurassic_world",
+    "trailer": "RFinNxS5KN4",
+    "genres": [
+        "Sci-Fi",
+        "Adventures"
+    ],
+    "production": [
+        "Universal Pictures"
+    ],
+    "director": "Colin Trevorrow",
+    "producers": "Frank Marshall, Patrick Crowley",
+    "writtens": "Rick Jaffa, Amanda Silver, Derek Connolly, Colin Trevorrow",
+    "music": "Michael Giacchino",
+    "cinema": "John Schwartzman",
+    "year": 2015,
+    "time": 124,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 150,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 1.67,
+        "suffix": "billion"
+    },
+    "actors": [
+        {
+            "name": "Chris Pratt",
+            "character": {
+                "name": "Owen"
+            }
+        },
+        {
+            "name": "Bryce Dallas Howard",
+            "character": {
+                "name": "Claire"
+            }
+        },
+        {
+            "name": "Irrfan Khan",
+            "character": {
+                "name": "Masrani"
+            }
+        },
+        {
+            "name": "Vincent D'Onofrio",
+            "character": {
+                "name": "Hoskins"
+            }
+        },
+        {
+            "name": "Ty Simpkins",
+            "character": {
+                "name": "Gray"
+            }
+        },
+        {
+            "name": "Nick Robinson",
+            "character": {
+                "name": "Zach"
+            }
+        },
+        {
+            "name": "Jake Johnson",
+            "character": {
+                "name": "Lowery"
+            }
+        },
+        {
+            "name": "Omar Sy",
+            "character": {
+                "name": "Barry"
+            }
+        },
+        {
+            "name": "BD Wong",
+            "character": {
+                "name": "Dr. Henry Wu"
+            }
+        },
+        {
+            "name": "Judy Greer",
+            "character": {
+                "name": "Karen"
+            }
+        },
+        {
+            "name": "Lauren Lapkus",
+            "character": {
+                "name": "Vivian"
+            }
+        },
+        {
+            "name": "Brian Tee",
+            "character": {
+                "name": "Hamada"
+            }
+        }
+    ],
+    "synopsis": "A new theme park, built on the original site of Jurassic Park, creates a genetically modified hybrid dinosaur, the Indominus Rex, which escapes containment and goes on a killing spree.",
+    "collections": ["Monsters"],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Performance by a Younger Actor (Ty Simpkins)"
+            ]
+        },
+        {
+            "title": "MTV Movie Award",
+            "nominations": [
+                "Best Action Performance"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Jurassic Park",
+        "part": 4
+    },
+    "type": "Film",
+    "sort": 201506
+}

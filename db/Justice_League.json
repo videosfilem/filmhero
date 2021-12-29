@@ -1,0 +1,164 @@
+{
+    "id": 163,
+    "title": "Zack Snyder's Justice League",
+    "poster": "justice_league",
+    "trailer": "vM-Bja2Gy04",
+    "genres": [
+        "Action",
+        "Adventures"
+    ],
+    "production": [
+        "HBO Max",
+        "Warner Bros. Pictures"
+    ],
+    "director": "Zack Snyder",
+    "producers": "Charles Roven, Deborah Snyder",
+    "writtens": "Chris Terrio",
+    "music": "Junkie XL",
+    "cinema": "Fabian Wagner",
+    "year": 2021,
+    "time": 242,
+    "countries": [
+        "USA",
+        "UK"
+    ],
+    "budget": {
+        "value": 300,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Ben Affleck",
+            "character": {
+                "name": "Bruce Wayne / Batman",
+                "poster": "batman"
+            }
+        },
+        {
+            "name": "Henry Cavill",
+            "character": {
+                "name": "Clark Kent / Superman",
+                "poster": "superman"
+            }
+        },
+        {
+            "name": "Amy Adams",
+            "character": {
+                "name": "Lois Lane"
+            }
+        },
+        {
+            "name": "Gal Gadot",
+            "character": {
+                "name": "Diana Prince / Wonder Woman",
+                "poster": "wonder-woman"
+            }
+        },
+        {
+            "name": "Ezra Miller",
+            "character": {
+                "name": "Barry Allen / The Flash",
+                "poster": "flash"
+            }
+        },
+        {
+            "name": "Jason Momoa",
+            "character": {
+                "name": "Arthur Curry / Aquaman",
+                "poster": "aquaman"
+            }
+        },
+        {
+            "name": "Ray Fisher",
+            "character": {
+                "name": "Victor Stone / Cyborg",
+                "poster": "cyborg"
+            }
+        },
+        {
+            "name": "Jeremy Irons",
+            "character": {
+                "name": "Alfred"
+            }
+        },
+        {
+            "name": "Diane Lane",
+            "character": {
+                "name": "Martha Kent"
+            }
+        },
+        {
+            "name": "Connie Nielsen",
+            "character": {
+                "name": "Queen Hippolyta"
+            }
+        },
+        {
+            "name": "J.K. Simmons",
+            "character": {
+                "name": "Commissioner Gordon"
+            }
+        },
+        {
+            "name": "Ciaran Hinds",
+            "character": {
+                "name": "Steppenwolf"
+            }
+        },
+        {
+            "name": "Ray Porter",
+            "character": {
+                "name": "Darkseid"
+            }
+        },
+        {
+            "name": "Ryan Zheng",
+            "character": {
+                "name": "Ryan Choi"
+            }
+        },
+        {
+            "name": "Amber Heard",
+            "character": {
+                "name": "Mera"
+            }
+        },
+        {
+            "name": "Joe Morton",
+            "character": {
+                "name": "Silas Stone"
+            }
+        },
+        {
+            "name": "Joe Manganiello",
+            "character": {
+                "name": "Deathstroke"
+            }
+        },
+        {
+            "name": "Willem Dafoe",
+            "character": {
+                "name": "Vulko"
+            }
+        },
+        {
+            "name": "Harry J. Lennix",
+            "character": {
+                "name": "General Swanwick / Martian Manhunter"
+            }
+        },
+        {
+            "name": "Peter Guinness",
+            "character": {
+                "name": "DeSaad"
+            }
+        }
+    ],
+    "synopsis": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+    "parts": {
+        "title": "DC Extended Universe",
+        "part": 5
+    },
+    "type": "Film",
+    "sort": 202103
+}
