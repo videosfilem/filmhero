@@ -1,0 +1,131 @@
+{
+    "id": 211,
+    "title": "Dune",
+    "poster": "dune",
+    "trailer": "8g18jFHCLXk",
+    "genres": [
+        "Sci-Fi",
+        "Adventures",
+        "Drama"
+    ],
+    "production": [
+        "Warner Bros. Pictures",
+        "Legendary"
+    ],
+    "director": "Denis Villeneuve",
+    "producers": "Cale Boyter, Joseph M. Caracciolo Jr., Mary Parent, Denis Villeneuve",
+    "writtens": "Jon Spaihts, Denis Villeneuve, Eric Roth",
+    "music": "Hans Zimmer",
+    "cinema": "Greig Fraser",
+    "year": 2021,
+    "time": 155,
+    "countries": [
+        "USA",
+        "Canada"
+    ],
+    "budget": {
+        "value": 165,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 351,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Timothee Chalamet",
+            "character": {
+                "name": "Paul Atreides",
+                "poster": "paul"
+            }
+        },
+        {
+            "name": "Rebecca Ferguson",
+            "character": {
+                "name": "Lady Jessica",
+                "poster": "jessica"
+            }
+        },
+        {
+            "name": "Oscar Isaac",
+            "character": {
+                "name": "Duke Leto Atreides",
+                "poster": "leto"
+            }
+        },
+        {
+            "name": "Jason Momoa",
+            "character": {
+                "name": "Duncan Idaho",
+                "poster": "idaho"
+            }
+        },
+        {
+            "name": "Stellan Skarsgard",
+            "character": {
+                "name": "Baron Vladimir Harkonnen",
+                "poster": "baron"
+            }
+        },
+        {
+            "name": "David Dastmalchian",
+            "character": {
+                "name": "Piter De Vries",
+                "poster": "vries"
+            }
+        },
+        {
+            "name": "Zendaya",
+            "character": {
+                "name": "Chani",
+                "poster": "chani"
+            }
+        },
+        {
+            "name": "Josh Brolin",
+            "character": {
+                "name": "Gurney Halleck",
+                "poster": "gurney"
+            }
+        },
+        {
+            "name": "Dave Bautista",
+            "character": {
+                "name": "Glossu 'Beast' Rabban",
+                "poster": "rabban"
+            }
+        },
+        {
+            "name": "Stephen McKinley Henderson",
+            "character": {
+                "name": "Thufir Hawat",
+                "poster": "hawat"
+            }
+        },
+        {
+            "name": "Sharon Duncan-Brewster",
+            "character": {
+                "name": "Dr. Liet Kynes",
+                "poster": "kynes"
+            }
+        },
+        {
+            "name": "Javier Bardem",
+            "character": {
+                "name": "Stilgar",
+                "poster": "stilgar"
+            }
+        },
+        {
+            "name": "Chen Chang",
+            "character": {
+                "name": "Dr. Wellington Yueh",
+                "poster": "yueh"
+            }
+        }
+    ],
+    "synopsis": "Feature adaptation of Frank Herbert's science fiction novel, about the son of a noble family entrusted with the protection of the most valuable asset and most vital element in the galaxy.",
+    "collections": ["Space Adventures"],
+    "type": "Film",
+    "sort": 202110
+}

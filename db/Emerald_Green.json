@@ -1,0 +1,72 @@
+{
+    "id": 216,
+    "title": "Emerald Green",
+    "poster": "taimless_3",
+    "trailer": "O9VyaI0i-v8",
+    "genres": [
+        "Drama",
+        "Fantasy",
+        "Mystery"
+    ],
+    "production": [
+        "Lieblingsfilm"
+    ],
+    "director": "Felix Fuchssteiner, Katharina Schöde",
+    "producers": "Philipp Budweg, Tom Blieninger, Hans W. Geißendörfer,  Markus Zimmer",
+    "writtens": "Katharina Schöde",
+    "music": "Philipp Fabian K'lmel",
+    "cinema": "Florian Emmerich",
+    "year": 2016,
+    "time": 113,
+    "countries": [
+        "Germany"
+    ],
+    "actors": [
+        {
+            "name": "Kostja Ullmann",
+            "character": {
+                "name": "James A.P. Pimplebottom"
+            }
+        },
+        {
+            "name": "Josefine Preuß",
+            "character": {
+                "name": "Lucy Montrose"
+            }
+        },
+        {
+            "name": "Maria Ehrich",
+            "character": {
+                "name": "Gwendolyn Shepherd"
+            }
+        },
+        {
+            "name": "Jannis Niewöhner",
+            "character": {
+                "name": "Gideon de Villiers"
+            }
+        },
+        {
+            "name": "Lion Wasczyk",
+            "character": {
+                "name": "Raphael de Villiers"
+            }
+        }
+    ],
+    "synopsis": "Adaptation of the final part of famous time-travel trilogy. Gwendolyn's heart is broken, will she trust Gideon again? There's no time to wallow in tears. Something unbelievable happens, and Gwendolyn finds herself in the race against time.",
+    "collections": ["Fantasy World"],
+    "awards": [
+        {
+            "title": "Jupiter Award",
+            "nominations": [
+                "Best German Actor"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Edelstein Trilogie",
+        "part": 3
+    },
+    "type": "Film",
+    "sort": 201607
+}

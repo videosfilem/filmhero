@@ -1,0 +1,117 @@
+{
+    "id": 275,
+    "title": "His Dark Materials",
+    "poster": "his_dark_materials",
+    "genres": [
+        "Adventures",
+        "Fantasy"
+    ],
+    "production": [
+        "HBO"
+    ],
+    "director": "Amit Gupta, Weronika Tofilska, Jamie Childs, William McGregor, Leanne Welham, Otto Bathurst",
+    "producers": "Stephen Haren, Laurie Borg, Brian Donovan",
+    "writtens": "Francesca Gardiner, Lydia Adetunji, Namsi Khan, Sarah Quintrell",
+    "music": "Lorne Balfe",
+    "cinema": "Gary Shaw, David Higgs, Joel Devlin, Justin Brown, David Luther, Petra Korner, Ole Bratt Birkeland, Suzie Lavelle",
+    "year": 2019,
+    "time": 900,
+    "country": "UK, USA",
+    "actors": [
+        {
+            "name": "Dafne Keen",
+            "character": {
+                "name": "Lyra Silvertongue",
+                "poster": "lyra"
+            }
+        },
+        {
+            "name": "Amir Wilson",
+            "character": {
+                "name": "Will Parry",
+                "poster": "will"
+            }
+        },
+        {
+            "name": "Ruth Wilson",
+            "character": {
+                "name": "Mrs Coulter",
+                "poster": "coulter"
+            }
+        },
+        {
+            "name": "Kit Connor",
+            "character": {
+                "name": "Pantalaimon"
+            }
+        },
+        {
+            "name": "Simone Kirby",
+            "character": {
+                "name": "Mary Malone"
+            }
+        },
+        {
+            "name": "Ariyon Bakare",
+            "character": {
+                "name": "Carlo Boreal",
+                "poster": "carlo"
+            }
+        },
+        {
+            "name": "Will Keen",
+            "character": {
+                "name": "Father MacPhail"
+            }
+        },
+        {
+            "name": "Lin-Manuel Miranda",
+            "character": {
+                "name": "Lee Scoresby",
+                "poster": "lee"
+            }
+        },
+        {
+            "name": "Joe Tandberg",
+            "character": {
+                "name": "Iorek Byrnison"
+            }
+        },
+        {
+            "name": "James McAvoy",
+            "character": {
+                "name": "Lord Asriel"
+            }
+        },
+        {
+            "name": "Andrew Scott",
+            "character": {
+                "name": "John Parry",
+                "poster": "john"
+            }
+        },
+        {
+            "name": "Ruta Gedmintas",
+            "character": {
+                "name": "Serafina Pekkala",
+                "poster": "serafina"
+            }
+        }
+    ],
+    "synopsis": "A young girl is destined to liberate her world from the grip of the Magisterium which represses people's ties to magic and their animal spirits known as daemons.",
+    "collections": ["Fantasy World"],
+    "type": "Series",
+    "seasons": [
+        {
+            "season": 1,
+            "episodes": 8,
+            "trailer": "APduGe1eLVI"
+        },
+        {
+            "season": 2,
+            "episodes": 7,
+            "trailer": "3CdQm6gLHUM"
+        }
+    ],
+    "sort": 201911
+}

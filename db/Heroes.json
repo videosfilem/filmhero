@@ -1,0 +1,185 @@
+{
+    "id": 242,
+    "title": "Heroes",
+    "poster": "heroes",
+    "genres": [
+        "Sci-Fi",
+        "Drama"
+    ],
+    "production": [
+        "Tailwind Productions",
+        "NBC Universal Television",
+        "Universal Media Studios"
+    ],
+    "director": "Tim Kring",
+    "producers": "Lori Motyer",
+    "writtens": "Tim Kring",
+    "music": "Lisa Coleman, Wendy Melvoin",
+    "cinema": "Nathaniel Goodman, Charlie Lieberman, John B. Aronson, Edward J. Pei, Adam Kane, John Newby",
+    "year": 2006,
+    "time": 3465,
+    "countries": [
+        "USA"
+    ],
+    "actors": [
+        {
+            "name": "Jack Coleman",
+            "character": {
+                "name": "Noah Bennet",
+                "poster": "noah"
+            }
+        },
+        {
+            "name": "Hayden Panettiere",
+            "character": {
+                "name": "Claire Bennet",
+                "poster": "claire"
+            }
+        },
+        {
+            "name": "Milo Ventimiglia",
+            "character": {
+                "name": "Peter Petrelli",
+                "poster": "peter"
+            }
+        },
+        {
+            "name": "Masi Oka",
+            "character": {
+                "name": "Hiro Nakamura",
+                "poster": "hiro"
+            }
+        },
+        {
+            "name": "Sendhil Ramamurthy",
+            "character": {
+                "name": "Mohinder Suresh",
+                "poster": "mohinder"
+            }
+        },
+        {
+            "name": "Greg Grunberg",
+            "character": {
+                "name": "Matt Parkman",
+                "poster": "matt"
+            }
+        },
+        {
+            "name": "James Kyson Lee",
+            "character": {
+                "name": "Ando Masahashi",
+                "poster": "ando"
+            }
+        },
+        {
+            "name": "Adrian Pasdar",
+            "character": {
+                "name": "Nathan Petrelli",
+                "poster": "nathan"
+            }
+        },
+        {
+            "name": "Zachary Quinto",
+            "character": {
+                "name": "Sylar",
+                "poster": "sylar"
+            }
+        },
+        {
+            "name": "Ali Larter",
+            "character": {
+                "name": "Niki Sanders",
+                "poster": "niki"
+            }
+        },
+        {
+            "name": "Cristine Rose",
+            "character": {
+                "name": "Angela Petrelli",
+                "poster": "angela"
+            }
+        },
+        {
+            "name": "Ashley Crow",
+            "character": {
+                "name": "Sandra Bennet"
+            }
+        },
+        {
+            "name": "Noah Gray-Cabey",
+            "character": {
+                "name": "Micah Sanders"
+            }
+        },
+        {
+            "name": "Robert Knepper",
+            "character": {
+                "name": "Isaac Mendez"
+            }
+        },
+        {
+            "name": "Adair Tishler",
+            "character": {
+                "name": "Molly Walker"
+            }
+        },
+        {
+            "name": "David Anders",
+            "character": {
+                "name": "Adam Monroe"
+            }
+        },
+        {
+            "name": "Robert Forster",
+            "character": {
+                "name": "Arthur Petrelli"
+            }
+        },
+        {
+            "name": "Malcolm McDowell",
+            "character": {
+                "name": "Daniel Linderman"
+            }
+        }
+    ],
+    "synopsis": "Common people discover that they have super powers. Their lives intertwine as a devastating event must be prevented.",
+    "collections": ["Superpower"],
+    "awards": [
+        {
+            "title": "Primetime Emmy Awards (2009)",
+            "nominations": [
+                "Outstanding Special Visual Effects for a Series"
+            ]
+        },
+        {
+            "title": "BAFTA Awards (2008)",
+            "nominations": [
+                "Best International"
+            ]
+        }
+    ],
+    "type": "Series",
+    "seasons": [
+        {
+            "season": 1,
+            "episodes": 23,
+            "trailer": "deNDnHW1sWo"
+        },
+        {
+            "season": 2,
+            "episodes": 11,
+            "trailer": "9mNGxXpAmHc"
+        },
+        {
+            "season": 3,
+            "episodes": 25,
+            "trailer": "mTzPPIEUFEs"
+        },
+        {
+            "season": 4,
+            "episodes": 18,
+            "trailer": "i1VA_aWyrPI"
+        }
+    ],
+    "sort": 200609
+}

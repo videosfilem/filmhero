@@ -1,0 +1,88 @@
+{
+    "id": 61,
+    "title": "Captain America: The Winter Soldier",
+    "poster": "captain_america_2",
+    "trailer": "7SlILk2WMTI",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "Walt Disney Pictures",
+        "Marvel Studios"
+    ],
+    "director": "Anthony Russo, Joe Russo",
+    "producers": "Kevin Feige",
+    "writtens": "Christopher Markus, Stephen McFeely",
+    "music": "Henry Jackman",
+    "cinema": "Trent Opaloch",
+    "year": 2014,
+    "time": 136,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 177,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 714,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Chris Evans",
+            "character": {
+                "name": "Steve Rogers / Captain America",
+                "poster": "steve-rogers"
+            }
+        },
+        {
+            "name": "Samuel L. Jackson",
+            "character": {
+                "name": "Nick Fury",
+                "poster": "nick-fury"
+            }
+        },
+        {
+            "name": "Scarlett Johansson",
+            "character": {
+                "name": "Natasha Romanoff / Black Widow",
+                "poster": "black-widow"
+            }
+        },
+        {
+            "name": "Robert Redford",
+            "character": {
+                "name": "Alexander Pierce"
+            }
+        },
+        {
+            "name": "Sebastian Stan",
+            "character": {
+                "name": "Bucky Barnes / Winter Soldier",
+                "poster": "winter-soldier"
+            }
+        },
+        {
+            "name": "Anthony Mackie",
+            "character": {
+                "name": "Sam Wilson / Falcon",
+                "poster": "falcon"
+            }
+        },
+        {
+            "name": "Cobie Smulders",
+            "character": {
+                "name": "Maria Hill"
+            }
+        }
+    ],
+    "synopsis": "As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier.",
+    "parts": {
+        "title": "Marvel Cinematic Universe",
+        "part": 9
+    },
+    "type": "Film",
+    "sort": 201403
+}

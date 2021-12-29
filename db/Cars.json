@@ -1,0 +1,88 @@
+{
+    "id": 311,
+    "title": "Cars",
+    "poster": "cars",
+    "trailer": "SbXIj2T-_uk",
+    "genres": [
+        "Adventures",
+        "Comedy"
+    ],
+    "production": [
+        "Pixar Animation"
+    ],
+    "director": "John Lasseter, Joe Ranft",
+    "producers": "Darla K. Anderson",
+    "writtens": "Dan Fogelman, John Lasseter, Joe Ranft, Kiel Murray, Phil Lorin, Jorgen Klubien",
+    "music": "Randy Newman",
+    "cinema": "Jean-Claude Kalache",
+    "year": 2006,
+    "time": 117,
+    "country": "USA",
+    "budget": {
+        "value": 120,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 462,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Owen Wilson",
+            "character": {
+                "name": "Lightning McQueen"
+            }
+        },
+        {
+            "name": "Paul Newman",
+            "character": {
+                "name": "Doc Hudson"
+            }
+        },
+        {
+            "name": "Bonnie Hunt",
+            "character": {
+                "name": "Sally Carrera"
+            }
+        },
+        {
+            "name": "Larry the Cable Guy",
+            "character": {
+                "name": "Mater"
+            }
+        },
+        {
+            "name": "Cheech Marin",
+            "character": {
+                "name": "Ramone"
+            }
+        },
+        {
+            "name": "Tony Shalhoub",
+            "character": {
+                "name": "Luigi"
+            }
+        },
+        {
+            "name": "Guido Quaroni",
+            "character": {
+                "name": "Guido"
+            }
+        },
+        {
+            "name": "Michael Keaton",
+            "character": {
+                "name": "Chick Hicks"
+            }
+        },
+        {
+            "name": "Richard Petty",
+            "character": {
+                "name": "The King"
+            }
+        }
+    ],
+    "synopsis": "A hot-shot race-car named Lightning McQueen gets waylaid in Radiator Springs, where he finds the true meaning of friendship and family.",
+    "type": "Animation",
+    "sort": 200606
+}

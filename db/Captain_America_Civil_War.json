@@ -1,0 +1,144 @@
+{
+    "id": 65,
+    "title": "Captain America: Civil War",
+    "poster": "captain_america_3",
+    "trailer": "dKrVegVI0Us",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "Walt Disney Pictures",
+        "Marvel Studios"
+    ],
+    "director": "Anthony Russo, Joe Russo",
+    "producers": "Kevin Feige",
+    "writtens": "Christopher Markus, Stephen McFeely",
+    "music": "Henry Jackman",
+    "cinema": "Trent Opaloch",
+    "year": 2016,
+    "time": 147,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 250,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 1.15,
+        "suffix": "billion"
+    },
+    "actors": [
+        {
+            "name": "Chris Evans",
+            "character": {
+                "name": "Steve Rogers / Captain America",
+                "poster": "captain-america"
+            }
+        },
+        {
+            "name": "Robert Downey Jr.",
+            "character": {
+                "name": "Tony Stark / Iron Man"
+            }
+        },
+        {
+            "name": "Scarlett Johansson",
+            "character": {
+                "name": "Natasha Romanoff / Black Widow"
+            }
+        },
+        {
+            "name": "Sebastian Stan",
+            "character": {
+                "name": "Bucky Barnes / The Winter Soldier",
+                "poster": "winter-soldier"
+            }
+        },
+        {
+            "name": "Anthony Mackie",
+            "character": {
+                "name": "Sam Wilson / The Falcon"
+            }
+        },
+        {
+            "name": "Don Cheadle",
+            "character": {
+                "name": "James Rhodes / War Machine"
+            }
+        },
+        {
+            "name": "Jeremy Renner",
+            "character": {
+                "name": "Clint Barton / Hawkeye",
+                "poster": "hawkeye"
+            }
+        },
+        {
+            "name": "Chadwick Boseman",
+            "character": {
+                "name": "T'Challa"
+            }
+        },
+        {
+            "name": "Paul Bettany",
+            "character": {
+                "name": "Vision"
+            }
+        },
+        {
+            "name": "Elizabeth Olsen",
+            "character": {
+                "name": "Wanda Maximoff",
+                "poster": "wanda"
+            }
+        },
+        {
+            "name": "Paul Rudd",
+            "character": {
+                "name": "Scott Lang / Ant-Man",
+                "poster": "antman"
+            }
+        },
+        {
+            "name": "Emily VanCamp",
+            "character": {
+                "name": "Sharon Carter"
+            }
+        },
+        {
+            "name": "Tom Holland",
+            "character": {
+                "name": "Peter Parker / Spider-Man"
+            }
+        },
+        {
+            "name": "Daniel Brühl",
+            "character": {
+                "name": "Zemo"
+            }
+        },
+        {
+            "name": "Frank Grillo",
+            "character": {
+                "name": "Brock Rumlow"
+            }
+        }
+    ],
+    "synopsis": "Political involvement in the Avengers' activities causes a rift between Captain America and Iron Man.",
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Performance by a Younger Actor (Tom Holland)"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Marvel Cinematic Universe",
+        "part": 13
+    },
+    "type": "Film",
+    "sort": 201605
+}

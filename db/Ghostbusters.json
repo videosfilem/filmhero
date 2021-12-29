@@ -1,0 +1,90 @@
+{
+    "id": 318,
+    "title": "Ghostbusters",
+    "poster": "ghostbusters",
+    "trailer": "6hDkhw5Wkas",
+    "genres": [
+        "Fantasy",
+        "Comedy"
+    ],
+    "production": [
+        "Columbia Pictures"
+    ],
+    "director": "Ivan Reitman",
+    "producers": "Ivan Reitman",
+    "writtens": "Dan Aykroyd, Harold Ramis",
+    "music": "Elmer Bernstein",
+    "cinema": "László Kovács",
+    "year": 1984,
+    "time": 105,
+    "country": "USA",
+    "budget": {
+        "value": 30,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 296,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Bill Murray",
+            "character": {
+                "name": "Dr. Peter Venkman"
+            }
+        },
+        {
+            "name": "Dan Aykroyd",
+            "character": {
+                "name": "Dr. Raymond Stantz"
+            }
+        },
+        {
+            "name": "Sigourney Weaver",
+            "character": {
+                "name": "Dana Barrett"
+            }
+        },
+        {
+            "name": "Harold Ramis",
+            "character": {
+                "name": "Dr. Egon Spengler"
+            }
+        },
+        {
+            "name": "Rick Moranis",
+            "character": {
+                "name": "Louis Tully"
+            }
+        },
+        {
+            "name": "Annie Potts",
+            "character": {
+                "name": "Janine Melnitz"
+            }
+        },
+        {
+            "name": "William Atherton",
+            "character": {
+                "name": "Walter Peck"
+            }
+        },
+        {
+            "name": "Ernie Hudson",
+            "character": {
+                "name": "Winston Zeddemore"
+            }
+        }
+    ],
+    "synopsis": "Three parapsychologists forced out of their university funding set up shop as a unique ghost removal service in New York City, attracting frightened yet skeptical customers.",
+    "collections": [
+        "Legends",
+        "Monsters"
+    ],
+    "parts": {
+        "title": "Ghostbusters",
+        "part": 1
+    },
+    "type": "Film",
+    "sort": 198406
+}

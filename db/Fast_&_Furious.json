@@ -1,0 +1,89 @@
+{
+    "id": 48,
+    "title": "Fast & Furious",
+    "poster": "fast_and_furious_4",
+    "trailer": "Gl-d_UIhdBw",
+    "genres": [
+        "Action",
+        "Crime"
+    ],
+    "production": [
+        "Universal Pictures"
+    ],
+    "director": "Justin Lin",
+    "producers": "Neal H. Moritz, Vin Diesel",
+    "writtens": "Chris Morgan",
+    "music": "Brian Tyler",
+    "cinema": "Amir Mokri",
+    "year": 2009,
+    "time": 107,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 85,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 363,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Vin Diesel",
+            "character": {
+                "name": "Dominic Toretto"
+            }
+        },
+        {
+            "name": "Paul Walker",
+            "character": {
+                "name": "Brian O'Conner"
+            }
+        },
+        {
+            "name": "Jordana Brewster",
+            "character": {
+                "name": "Mia"
+            }
+        },
+        {
+            "name": "Michelle Rodriguez",
+            "character": {
+                "name": "Letty"
+            }
+        },
+        {
+            "name": "John Ortiz",
+            "character": {
+                "name": "Campos"
+            }
+        },
+        {
+            "name": "Laz Alonso",
+            "character": {
+                "name": "Fenix"
+            }
+        },
+        {
+            "name": "Gal Gadot",
+            "character": {
+                "name": "Gisele"
+            }
+        },
+        {
+            "name": "Sung Kang",
+            "character": {
+                "name": "Han"
+            }
+        }
+    ],
+    "synopsis": "Brian O'Conner, back working for the FBI in Los Angeles, teams up with Dominic Toretto to bring down a heroin importer by infiltrating his operation.",
+    "collections": ["Cars and Speed"],
+    "parts": {
+        "title": "Fast and Furious",
+        "part": 4
+    },
+    "type": "Film",
+    "sort": 200903
+}

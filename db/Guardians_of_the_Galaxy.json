@@ -1,0 +1,142 @@
+{
+    "id": 62,
+    "title": "Guardians of the Galaxy",
+    "poster": "guardians_of_the_galaxy",
+    "trailer": "d96cjJhvlMA",
+    "genres": [
+        "Sci-Fi",
+        "Comedy"
+    ],
+    "production": [
+        "Walt Disney Pictures",
+        "Marvel Studios"
+    ],
+    "director": "James Gunn",
+    "producers": "Kevin Feige",
+    "writtens": "James Gunn, Nicole Perlman",
+    "music": "Tyler Bates",
+    "cinema": "Ben Davis",
+    "year": 2014,
+    "time": 122,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 196,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 773,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Chris Pratt",
+            "character": {
+                "name": "Peter Quill / Star-Lord",
+                "poster": "starlod"
+            }
+        },
+        {
+            "name": "Zoe Saldana",
+            "character": {
+                "name": "Gamora",
+                "poster": "gamora"
+            }
+        },
+        {
+            "name": "Dave Bautista",
+            "character": {
+                "name": "Drax",
+                "poster": "drax"
+            }
+        },
+        {
+            "name": "Vin Diesel",
+            "character": {
+                "name": "Groot",
+                "poster": "groot"
+            }
+        },
+        {
+            "name": "Bradley Cooper",
+            "character": {
+                "name": "Rocket",
+                "poster": "rocket"
+            }
+        },
+        {
+            "name": "Lee Pace",
+            "character": {
+                "name": "Ronan",
+                "poster": "ronan"
+            }
+        },
+        {
+            "name": "Michael Rooker",
+            "character": {
+                "name": "Yondu Udonta",
+                "poster": "yondu"
+            }
+        },
+        {
+            "name": "Karen Gillan",
+            "character": {
+                "name": "Nebula",
+                "poster": "nebula"
+            }
+        },
+        {
+            "name": "Djimon Hounsou",
+            "character": {
+                "name": "Korath"
+            }
+        },
+        {
+            "name": "John C. Reilly",
+            "character": {
+                "name": "Corpsman Dey",
+                "poster": "corpsman"
+            }
+        },
+        {
+            "name": "Glenn Close",
+            "character": {
+                "name": "Nova Prime",
+                "poster": "nova-prime"
+            }
+        },
+        {
+            "name": "Benicio Del Toro",
+            "character": {
+                "name": "The Collector",
+                "poster": "collector"
+            }
+        }
+    ],
+    "synopsis": "A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe.",
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Actor (Chris Pratt)",
+                "Best Director",
+                "Best Make-Up",
+                "Best Comic-to-Film Motion Picture "
+            ]
+        },
+        {
+            "title": "Critics Choice Award",
+            "nominations": [
+                "Best Hair & Makeup",
+                "Best Action Movie"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Marvel Cinematic Universe",
+        "part": 10
+    },
+    "type": "Film",
+    "sort": 201407
+}

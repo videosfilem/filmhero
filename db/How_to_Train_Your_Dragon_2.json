@@ -1,0 +1,86 @@
+{
+    "id": 32,
+    "title": "How to Train Your Dragon 2",
+    "poster": "how_to_train_your_dragon_2",
+    "trailer": "2BP38770KNo",
+    "genres": [
+        "Fantasy",
+        "Adventures"
+    ],
+    "production": [
+        "DreamWorks Animation"
+    ],
+    "director": "Dean DeBlois",
+    "producers": "Bonnie Amold",
+    "writtens": "Dean DeBlois",
+    "music": "John Powell",
+    "year": 2014,
+    "time": 102,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 145,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 621,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Jay Baruchel",
+            "character": {
+                "name": "Hiccup",
+                "poster": "hiccup"
+            }
+        },
+        {
+            "name": "Cate Blanchett",
+            "character": {
+                "name": "Valka",
+                "poster": "valka"
+            }
+        },
+        {
+            "name": "Gerard Butler",
+            "character": {
+                "name": "Stoick",
+                "poster": "stoick"
+            }
+        },
+        {
+            "name": "Craig Ferguson",
+            "character": {
+                "name": "Gobber"
+            }
+        },
+        {
+            "name": "America Ferrera",
+            "character": {
+                "name": "Astrid",
+                "poster": "astrid"
+            }
+        },
+        {
+            "name": "Djimon Hounsou",
+            "character": {
+                "name": "Drago Bludvist"
+            }
+        },
+        {
+            "name": "Kit Harington",
+            "character": {
+                "name": "Eret"
+            }
+        }
+    ],
+    "synopsis": "When Hiccup and Toothless discover an ice cave that is home to hundreds of new wild dragons and the mysterious Dragon Rider, the two friends find themselves at the center of a battle to protect the peace.",
+    "collections": ["Fantasy World"],
+    "parts": {
+        "title": "How to Train Your Dragon",
+        "part": 2
+    },
+    "type": "Animation",
+    "sort": 201406
+}

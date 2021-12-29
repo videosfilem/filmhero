@@ -1,0 +1,109 @@
+{
+    "id": 174,
+    "title": "Hellboy II: The Golden Army",
+    "poster": "hellboy_2",
+    "trailer": "HMWQEi8vvto",
+    "genres": [
+        "Fantasy",
+        "Action"
+    ],
+    "production": [
+        "Universal Pictures"
+    ],
+    "director": "Guillermo del Toro",
+    "producers": "Lawrence Gordon, Mike Richardson, Lloyd Levin",
+    "writtens": "Guillermo del Toro",
+    "music": "Danny Elfman",
+    "cinema": "Guillermo Navarro",
+    "year": 2008,
+    "time": 120,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 85,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 160,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Ron Perlman",
+            "character": {
+                "name": "Hellboy"
+            }
+        },
+        {
+            "name": "Selma Blair",
+            "character": {
+                "name": "Liz Sherman"
+            }
+        },
+        {
+            "name": "Doug Jones",
+            "character": {
+                "name": "Abe Sapien / Chamberlain / Angel of Death"
+            }
+        },
+        {
+            "name": "John Alexander",
+            "character": {
+                "name": "Johann Krauss / Bethmoora Goblin"
+            }
+        },
+        {
+            "name": "James Dodd",
+            "character": {
+                "name": "Johann Krauss"
+            }
+        },
+        {
+            "name": "Seth MacFarlane",
+            "character": {
+                "name": "Johann"
+            }
+        },
+        {
+            "name": "Luke Goss",
+            "character": {
+                "name": "Prince Nuada"
+            }
+        },
+        {
+            "name": "Anna Walton",
+            "character": {
+                "name": "Princess Nuala"
+            }
+        },
+        {
+            "name": "Jeffrey Tambor",
+            "character": {
+                "name": "Tom Manning"
+            }
+        },
+        {
+            "name": "John Hurt",
+            "character": {
+                "name": "Professor Broom"
+            }
+        }
+    ],
+    "synopsis": "The mythical world starts a rebellion against humanity in order to rule the Earth, so Hellboy and his team must save the world from the rebellious creatures.",
+    "collections": ["Superpower"],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Horror Film"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "del Toro's Hellboy",
+        "part": 2
+    },
+    "type": "Film",
+    "sort": 200807
+}

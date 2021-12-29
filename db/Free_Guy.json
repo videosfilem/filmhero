@@ -1,0 +1,82 @@
+{
+    "id": 282,
+    "title": "Free Guy",
+    "poster": "freeguy",
+    "trailer": "X2m-08cOAbc",
+    "genres": [
+        "Adventures",
+        "Comedy"
+    ],
+    "production": [
+        "20th Century Studios"
+    ],
+    "director": "Shawn Levy",
+    "producers": "Greg Berlanti, Shawn Levy, Ryan Reynolds, Sarah Schechter",
+    "writtens": "Matt Lieberman, Zak Penn",
+    "music": "Christophe Beck",
+    "cinema": "George Richmond",
+    "year": 2021,
+    "time": 115,
+    "country": "USA, Canada",
+    "budget": {
+        "value": 120,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 331,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Ryan Reynolds",
+            "character": {
+                "name": "Guy",
+                "poster": "guy"
+            }
+        },
+        {
+            "name": "Jodie Comer",
+            "character": {
+                "name": "Millie / Molotovgirl",
+                "poster": "millie"
+            }
+        },
+        {
+            "name": "Lil Rel Howery",
+            "character": {
+                "name": "Buddy",
+                "poster": "buddy"
+            }
+        },
+        {
+            "name": "Joe Keery",
+            "character": {
+                "name": "Keys",
+                "poster": "keys"
+            }
+        },
+        {
+            "name": "Utkarsh Ambudkar",
+            "character": {
+                "name": "Mouser"
+            }
+        },
+        {
+            "name": "Taika Waititi",
+            "character": {
+                "name": "Antwan",
+                "poster": "antwan"
+            }
+        },
+        {
+            "name": "Channing Tatum",
+            "character": {
+                "name": "Revenjamin Buttons"
+            }
+        }
+    ],
+    "synopsis": "A bank teller discovers that he's actually an NPC inside a brutal, open world video game.",
+    "collections": ["The World of Future"],
+    "type": "Film",
+    "sort": 202108
+}

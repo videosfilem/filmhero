@@ -1,0 +1,101 @@
+{
+    "id": 42,
+    "title": "Harry Potter and the Half-Blood Prince",
+    "poster": "harry_potter_6",
+    "trailer": "sg81Lts5kYY",
+    "genres": [
+        "Fantasy",
+        "Adventures"
+    ],
+    "production": [
+        "Warner Bros. Pictures"
+    ],
+    "director": "David Yates",
+    "producers": "David Heyman, David Barron",
+    "writtens": "Steve Kloves",
+    "music": "Nicholas Hooper",
+    "cinema": "Bruno Delbonnel",
+    "year": 2009,
+    "time": 153,
+    "countries": [
+        "USA",
+        "UK"
+    ],
+    "budget": {
+        "value": 250,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 934,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Daniel Radcliffe",
+            "character": {
+                "name": "Harry Potter",
+                "poster": "harry-potter"
+            }
+        },
+        {
+            "name": "Rupert Grint",
+            "character": {
+                "name": "Ron Weasley",
+                "poster": "ron"
+            }
+        },
+        {
+            "name": "Emma Watson",
+            "character": {
+                "name": "Hermione Granger",
+                "poster": "hermione"
+            }
+        },
+        {
+            "name": "Richard Harris",
+            "character": {
+                "name": "Albus Dumbledore",
+                "poster": "dumbledore"
+            }
+        },
+        {
+            "name": "Robbie Coltrane",
+            "character": {
+                "name": "Rubeus Hagrid"
+            }
+        },
+        {
+            "name": "Tom Felton",
+            "character": {
+                "name": "Draco Malfoy",
+                "poster": "draco"
+            }
+        },
+        {
+            "name": "Alan Rickman",
+            "character": {
+                "name": "Severus Snape",
+                "poster": "severus"
+            }
+        },
+        {
+            "name": "Helena Bonham Carter",
+            "character": {
+                "name": "Bellatrix Lestrage"
+            }
+        },
+        {
+            "name": "Jim Broadbent",
+            "character": {
+                "name": "Horace Slughorn"
+            }
+        }
+    ],
+    "synopsis": "As Harry Potter begins his sixth year at Hogwarts, he discovers an old book marked as \the property of the Half-Blood Prince\" and begins to learn more about Lord Voldemort's dark past.",
+    "parts": {
+        "title": "Harry Potter Universe",
+        "part": 6
+    },
+    "type": "Film",
+    "sort": 200907
+}

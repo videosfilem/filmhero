@@ -1,0 +1,88 @@
+{
+    "id": 191,
+    "title": "Black Widow",
+    "poster": "black_widow",
+    "trailer": "ybji16u608U",
+    "genres": [
+        "Adventures",
+        "Action"
+    ],
+    "production": [
+        "Marvel Studios"
+    ],
+    "director": "Cate Shortland",
+    "producers": "Kevin Feige",
+    "writtens": "Eric Pearson",
+    "music": "Lorne Balfe",
+    "cinema": "Gabriel Beristain",
+    "year": 2021,
+    "time": 134,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 200,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 379,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Scarlett Johansson",
+            "character": {
+                "name": "Natasha Romanoff / Black Widow",
+                "poster": "natasha"
+            }
+        },
+        {
+            "name": "Florence Pugh",
+            "character": {
+                "name": "Yelena Belova / Black Widow",
+                "poster": "yelena"
+            }
+        },
+        {
+            "name": "Rachel Weisz",
+            "character": {
+                "name": "Melina Vostokoff / Black Widow",
+                "poster": "melina"
+            }
+        },
+        {
+            "name": "David Harbour",
+            "character": {
+                "name": "Alexei Shostakov / Red Guardian",
+                "poster": "red-guardian"
+            }
+        },
+        {
+            "name": "O-T Fagbenle",
+            "character": {
+                "name": "Rick Mason",
+                "poster": "rick"
+            }
+        },
+        {
+            "name": "Olga Kurylenko",
+            "character": {
+                "name": "Antonia Dreykov / Taskmaster",
+                "poster": "taskmaster"
+            }
+        },
+        {
+            "name": "Ray Winstone",
+            "character": {
+                "name": "Dreykov"
+            }
+        }
+    ],
+    "synopsis": "Natasha Romanoff confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises.",
+    "parts": {
+        "title": "Marvel Cinematic Universe",
+        "part": 27
+    },
+    "type": "Film",
+    "sort": 202107
+}

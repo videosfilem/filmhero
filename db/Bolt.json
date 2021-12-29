@@ -1,0 +1,76 @@
+{
+    "id": 312,
+    "title": "Bolt",
+    "poster": "bolt",
+    "trailer": "Pj0a7GkMH3w",
+    "genres": [
+        "Adventures",
+        "Comedy"
+    ],
+    "production": [
+        "Walt Disney Animation"
+    ],
+    "director": "Byron Howard, Chris Williams",
+    "producers": "Clark Spencer",
+    "writtens": "Dan Fogelman, Chris Williams",
+    "music": "John Powell",
+    "cinema": "Scott Beattie",
+    "year": 2008,
+    "time": 96,
+    "country": "USA",
+    "budget": {
+        "value": 150,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 310,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "John Travolta",
+            "character": {
+                "name": "Bolt"
+            }
+        },
+        {
+            "name": "Miley Cyrus",
+            "character": {
+                "name": "Penny"
+            }
+        },
+        {
+            "name": "Susie Essman",
+            "character": {
+                "name": "Mittens"
+            }
+        },
+        {
+            "name": "Mark Walton",
+            "character": {
+                "name": "Rhino"
+            }
+        },
+        {
+            "name": "Malcolm McDowell",
+            "character": {
+                "name": "Dr. Calico"
+            }
+        },
+        {
+            "name": "James Lipton",
+            "character": {
+                "name": "The Director"
+            }
+        },
+        {
+            "name": "Greg Germann",
+            "character": {
+                "name": "The Agent"
+            }
+        }
+    ],
+    "synopsis": "The canine star of a fictional sci-fi/action show that believes his powers are real embarks on a cross country trek to save his co-star from a threat he believes is just as real.",
+    "type": "Animation",
+    "sort": 200811
+}

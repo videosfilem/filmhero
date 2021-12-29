@@ -1,0 +1,87 @@
+{
+    "id": 292,
+    "title": "Focus",
+    "poster": "focus",
+    "trailer": "MxCRgtdAuBo",
+    "genres": [
+        "Drama",
+        "Comedy",
+        "Crime"
+    ],
+    "production": [
+        "Warner Bros. Pictures"
+    ],
+    "director": "Glenn Ficarra, John Requa",
+    "producers": "Denise Di Novi",
+    "writtens": "Glenn Ficarra, John Requa",
+    "music": "Nick Urata",
+    "cinema": "Xavier Grobet",
+    "year": 2015,
+    "time": 105,
+    "countries": [
+        "USA",
+        "Argentina"
+    ],
+    "budget": {
+        "value": 50,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 159,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Will Smith",
+            "character": {
+                "name": "Nicky"
+            }
+        },
+        {
+            "name": "Margot Robbie",
+            "character": {
+                "name": "Jess"
+            }
+        },
+        {
+            "name": "Adrian Martinez",
+            "character": {
+                "name": "Farhad"
+            }
+        },
+        {
+            "name": "Gerald McRaney",
+            "character": {
+                "name": "Owens"
+            }
+        },
+        {
+            "name": "Rodrigo Santoro",
+            "character": {
+                "name": "Rafael Garriga"
+            }
+        },
+        {
+            "name": "B. D. Wong",
+            "character": {
+                "name": "Liyuan Tse"
+            }
+        },
+        {
+            "name": "Robert Taylor",
+            "character": {
+                "name": "McEwen"
+            }
+        },
+        {
+            "name": "Dominic Fumusa",
+            "character": {
+                "name": "Jared Mukulski"
+            }
+        }
+    ],
+    "synopsis": "In the midst of veteran con man Nicky's latest scheme, a woman from his past - now an accomplished femme fatale - shows up and throws his plans for a loop.",
+    "collections": ["Detectives and Agents"],
+    "type": "Film",
+    "sort": 201502
+}

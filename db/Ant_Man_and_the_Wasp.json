@@ -1,0 +1,88 @@
+{
+    "id": 72,
+    "title": "Ant-Man and the Wasp",
+    "poster": "ant_man_2",
+    "trailer": "UUkn-enk2RU",
+    "genres": [
+        "Sci-Fi",
+        "Comedy"
+    ],
+    "production": [
+        "Walt Disney Pictures",
+        "Marvel Studios"
+    ],
+    "director": "Peyton Reed",
+    "producers": "Kevin Feige, Stephen Broussard",
+    "writtens": "Chris McKenna, Erik Sommers, Paul Rudd",
+    "music": "Christophe Beck",
+    "cinema": "Dante Spinotti",
+    "year": 2018,
+    "time": 118,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 162,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 595,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Paul Rudd",
+            "character": {
+                "name": "Scott Lang / Ant-Man",
+                "poster": "antman"
+            }
+        },
+        {
+            "name": "Evangeline Lilly",
+            "character": {
+                "name": "Hope Van Dyne / New Wasp",
+                "poster": "wasp"
+            }
+        },
+        {
+            "name": "Michael Pena",
+            "character": {
+                "name": "Luis"
+            }
+        },
+        {
+            "name": "Hannah John-Kamen",
+            "character": {
+                "name": "Ava / Ghost",
+                "poster": "ghost"
+            }
+        },
+        {
+            "name": "Michelle Pfeiffer",
+            "character": {
+                "name": "Janet Van Dyne / First Wasp",
+                "poster": "janet"
+            }
+        },
+        {
+            "name": "Laurence Fishburne",
+            "character": {
+                "name": "Dr. Bill Foster"
+            }
+        },
+        {
+            "name": "Michael Douglas",
+            "character": {
+                "name": "Dr. Hank Pym",
+                "poster": "hank"
+            }
+        }
+    ],
+    "synopsis": "As Scott Lang balances being both a Super Hero and a father, Hope van Dyne and Dr. Hank Pym present an urgent new mission that finds the Ant-Man fighting alongside The Wasp to uncover secrets from their past.",
+    "parts": {
+        "title": "Marvel Cinematic Universe",
+        "part": 20
+    },
+    "type": "Film",
+    "sort": 201806
+}

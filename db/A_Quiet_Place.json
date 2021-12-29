@@ -1,0 +1,77 @@
+{
+    "id": 304,
+    "title": "A Quiet Place",
+    "poster": "quiet_place",
+    "trailer": "WR7cc5t7tv8",
+    "genres": [
+        "Sci-Fi",
+        "Drama",
+        "Horror"
+    ],
+    "production": [
+        "Paramount Pictures"
+    ],
+    "director": "John Krasinski",
+    "producers": "Michael Bay, Andrew Form, Brad Fuller",
+    "writtens": "Bryan Woods, Scott Beck, John Krasinski",
+    "music": "Marco Beltrami",
+    "cinema": "Charlotte Bruus Christensen",
+    "year": 2018,
+    "time": 90,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 17,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 341,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Emily Blunt",
+            "character": {
+                "name": "Evelyn Abbott"
+            }
+        },
+        {
+            "name": "John Krasinski",
+            "character": {
+                "name": "Lee Abbott"
+            }
+        },
+        {
+            "name": "Millicent Simmonds",
+            "character": {
+                "name": "Regan Abbott"
+            }
+        },
+        {
+            "name": "Noah Jupe",
+            "character": {
+                "name": "Marcus Abbott"
+            }
+        }
+    ],
+    "synopsis": "In a post-apocalyptic world, a family is forced to live in silence while hiding from monsters with ultra-sensitive hearing.",
+    "collections": ["Invaders"],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Horror Film",
+                "Best Writing"
+            ]
+        },
+        {
+            "title": "Critics Choice Award",
+            "nominations": [
+                "Best Sci-Fi/Horror Movie"
+            ]
+        }
+    ],
+    "type": "Film",
+    "sort": 201803
+}

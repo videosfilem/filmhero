@@ -1,0 +1,70 @@
+{
+    "id": 293,
+    "title": "Enola Holmes",
+    "poster": "enola_holmes",
+    "trailer": "1d0Zf9sXlHk",
+    "genres": [
+        "Adventures",
+        "Crime"
+    ],
+    "production": [
+        "Netflix"
+    ],
+    "director": "Harry Bradbeer",
+    "producers": "Millie Bobby Brown, Paige Brown, Alex Garcia, Ali Mendes, Mary Parent",
+    "writtens": "Jack Thorne",
+    "music": "Daniel Pemberton",
+    "cinema": "Giles Nuttgens",
+    "year": 2020,
+    "time": 123,
+    "countries": [
+        "UK"
+    ],
+    "actors": [
+        {
+            "name": "Millie Bobby Brown",
+            "character": {
+                "name": "Enola Holmes",
+                "poster": "enola"
+            }
+        },
+        {
+            "name": "Henry Cavill",
+            "character": {
+                "name": "Sherlock Holmes",
+                "poster": "sherlock"
+            }
+        },
+        {
+            "name": "Sam Claflin",
+            "character": {
+                "name": "Mycroft Holmes",
+                "poster": "mycroft"
+            }
+        },
+        {
+            "name": "Helena Bonham Carter",
+            "character": {
+                "name": "Eudoria Holmes",
+                "poster": "eudoria"
+            }
+        },
+        {
+            "name": "Louis Partridge",
+            "character": {
+                "name": "Tewkesbury",
+                "poster": "tewkesbury"
+            }
+        },
+        {
+            "name": "Burn Gorman",
+            "character": {
+                "name": "Linthorn"
+            }
+        }
+    ],
+    "synopsis": "When Enola Holmes-Sherlock's teen sister-discovers her mother missing, she sets off to find her, becoming a super-sleuth in her own right as she outwits her famous brother and unravels a dangerous conspiracy around a mysterious young Lord.",
+    "collections": ["Detectives and Agents"],
+    "type": "Film",
+    "sort": 202009
+}

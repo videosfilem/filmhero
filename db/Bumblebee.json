@@ -1,0 +1,97 @@
+{
+    "id": 122,
+    "title": "Bumblebee",
+    "poster": "bumblebee",
+    "trailer": "lcwmDAYt22k",
+    "genres": [
+        "Sci-Fi",
+        "Adventures"
+    ],
+    "production": [
+        "Paramount Pictures"
+    ],
+    "director": "Travis Knight",
+    "producers": "Lorenzo di Bonaventure, Tom DeSanto, Don Murphy, Mark Vahradian",
+    "writtens": "Christina Hodson",
+    "music": "Dario Marianelli",
+    "cinema": "Enrique Chediak",
+    "year": 2018,
+    "time": 114,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 102,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 460,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Hailee Steinfeld",
+            "character": {
+                "name": "Charlie"
+            }
+        },
+        {
+            "name": "Jorge Lendeborg Jr.",
+            "character": {
+                "name": "Memo"
+            }
+        },
+        {
+            "name": "John Cena",
+            "character": {
+                "name": "Agent Burns"
+            }
+        },
+        {
+            "name": "Jason Drucker",
+            "character": {
+                "name": "Otis"
+            }
+        },
+        {
+            "name": "Pamela Adlon",
+            "character": {
+                "name": "Sally"
+            }
+        },
+        {
+            "name": "Stephen Schneider",
+            "character": {
+                "name": "Ron"
+            }
+        },
+        {
+            "name": "Dylan O'Brien",
+            "character": {
+                "name": "Bumblebee"
+            }
+        },
+        {
+            "name": "Peter Cullen",
+            "character": {
+                "name": "Optimus Prime"
+            }
+        },
+        {
+            "name": "Angela Bassett",
+            "character": {
+                "name": "Shatter"
+            }
+        },
+        {
+            "name": "Justin Theroux",
+            "character": {
+                "name": "Dropkick"
+            }
+        }
+    ],
+    "synopsis": "On the run in the year of 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken.",
+    "collections": ["Robots"],
+    "type": "Film",
+    "sort": 201806
+}

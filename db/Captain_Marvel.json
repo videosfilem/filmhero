@@ -1,0 +1,113 @@
+{
+    "id": 73,
+    "title": "Captain Marvel",
+    "poster": "captain_marvel",
+    "trailer": "TcMBFSGVi1c",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "Walt Disney Pictures",
+        "Marvel Studios"
+    ],
+    "director": "Anna Boden, Ryan Fleck",
+    "producers": "Kevin Feige",
+    "writtens": "Anna Boden, Ryan Fleck, Geneva Robertson-Dworet",
+    "music": "Pinar Toprak",
+    "cinema": "Ben Davis",
+    "year": 2019,
+    "time": 124,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 152,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 1.13,
+        "suffix": "billion"
+    },
+    "actors": [
+        {
+            "name": "Brie Larson",
+            "character": {
+                "name": "Carol Danvers / Captain Marvel",
+                "poster": "carol"
+            }
+        },
+        {
+            "name": "Samuel L. Jackson",
+            "character": {
+                "name": "Nick Fury",
+                "poster": "nick-fury"
+            }
+        },
+        {
+            "name": "Ben Mendelsohn",
+            "character": {
+                "name": "Talos / Keller",
+                "poster": "talos"
+            }
+        },
+        {
+            "name": "Jude Law",
+            "character": {
+                "name": "Yon-Rogg",
+                "poster": "yon-rogg"
+            }
+        },
+        {
+            "name": "Annette Bening",
+            "character": {
+                "name": "Supreme Intelligence / Dr. Wendy Lawson",
+                "poster": "supreme"
+            }
+        },
+        {
+            "name": "Lashana Lynch",
+            "character": {
+                "name": "Maria Rambeau"
+            }
+        },
+        {
+            "name": "Clark Gregg",
+            "character": {
+                "name": "Agent Coulson",
+                "poster": "coulson"
+            }
+        },
+        {
+            "name": "Rune Temte",
+            "character": {
+                "name": "Bron-Char"
+            }
+        },
+        {
+            "name": "Gemma Chan",
+            "character": {
+                "name": "Minn-Erva"
+            }
+        },
+        {
+            "name": "Djimon Hounsou",
+            "character": {
+                "name": "Korath"
+            }
+        },
+        {
+            "name": "Lee Pace",
+            "character": {
+                "name": "Ronan"
+            }
+        }
+    ],
+    "synopsis": "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.",
+    "parts": {
+        "title": "Marvel Cinematic Universe",
+        "part": 21
+    },
+    "type": "Film",
+    "sort": 201903
+}

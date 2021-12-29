@@ -1,0 +1,91 @@
+{
+    "id": 220,
+    "title": "Aladdin",
+    "poster": "aladdin",
+    "trailer": "foyufD52aog",
+    "genres": [
+        "Adventures",
+        "Comedy",
+        "Family"
+    ],
+    "production": [
+        "Walt Disney Pictures"
+    ],
+    "director": "Guy Ritchie",
+    "producers": "Dan Lin, Jonathan Eirich",
+    "writtens": "John August, Guy Ritchie",
+    "music": "Alan Menken",
+    "cinema": "Alan Stewart",
+    "year": 2019,
+    "time": 128,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 183,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 1.03,
+        "suffix": "billion"
+    },
+    "actors": [
+        {
+            "name": "Will Smith",
+            "character": {
+                "name": "Genie",
+                "poster": "genie"
+            }
+        },
+        {
+            "name": "Mena Massoud",
+            "character": {
+                "name": "Aladdin",
+                "poster": "aladdin"
+            }
+        },
+        {
+            "name": "Naomi Scott",
+            "character": {
+                "name": "Jasmine",
+                "poster": "jasmine"
+            }
+        },
+        {
+            "name": "Marwan Kenzari",
+            "character": {
+                "name": "Jafar",
+                "poster": "jafar"
+            }
+        },
+        {
+            "name": "Navid Negahban",
+            "character": {
+                "name": "Sultan"
+            }
+        },
+        {
+            "name": "Nasim Pedrad",
+            "character": {
+                "name": "Dalia"
+            }
+        },
+        {
+            "name": "Billy Magnussen",
+            "character": {
+                "name": "Prince Anders"
+            }
+        }
+    ],
+    "synopsis": "A kind-hearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.",
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Costume Design"
+            ]
+        }
+    ],
+    "type": "Film",
+    "sort": 201905
+}

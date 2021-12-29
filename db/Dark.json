@@ -1,0 +1,204 @@
+{
+    "id": 291,
+    "title": "Dark",
+    "poster": "dark",
+    "genres": [
+        "Fantasy",
+        "Drama"
+    ],
+    "production": [
+        "Netflix"
+    ],
+    "director": "Baran bo Odar, Jantje Friese",
+    "producers": "Justyna Müsch, Jantje Friese, Quirin Berg, Max Wiedemann, Baran bo Odar",
+    "writtens": "Jantje Friese, Ronny Schalk, Marc O. Seng, Martin Behnke, Daphne Ferraro",
+    "music": "Ben Frost",
+    "cinema": "Nikolaus Summerer",
+    "year": 2017,
+    "time": 1560,
+    "countries": [
+        "Germany",
+        "USA"
+    ],
+    "actors": [
+        {
+            "name": "Louis Hofmann",
+            "character": {
+                "name": "Jonas Kahnwald"
+            }
+        },
+        {
+            "name": "Karoline Eichhorn",
+            "character": {
+                "name": "Charlotte Doppler"
+            }
+        },
+        {
+            "name": "Lisa Vicari",
+            "character": {
+                "name": "Martha Nielsen"
+            }
+        },
+        {
+            "name": "Maja Schöne",
+            "character": {
+                "name": "Hannah Kahnwald"
+            }
+        },
+        {
+            "name": "Stephan Kampwirth",
+            "character": {
+                "name": "Peter Doppler"
+            }
+        },
+        {
+            "name": "Jördis Triebel",
+            "character": {
+                "name": "Katharina Nielsen"
+            }
+        },
+        {
+            "name": "Andreas Pietschmann",
+            "character": {
+                "name": "The Stranger"
+            }
+        },
+        {
+            "name": "Paul Lux",
+            "character": {
+                "name": "Bartosz Tiedemann"
+            }
+        },
+        {
+            "name": "Moritz Jahn",
+            "character": {
+                "name": "Magnus Nielsen"
+            }
+        },
+        {
+            "name": "Christian Hutcherson",
+            "character": {
+                "name": "Magnus Nielsen"
+            }
+        },
+        {
+            "name": "Oliver Masucci",
+            "character": {
+                "name": "Ulrich Nielsen"
+            }
+        },
+        {
+            "name": "Peter Benedict",
+            "character": {
+                "name": "Aleksander Tiedemann"
+            }
+        },
+        {
+            "name": "Gina Stiebitz",
+            "character": {
+                "name": "Franziska Doppler"
+            }
+        },
+        {
+            "name": "Deborah Kaufmann",
+            "character": {
+                "name": "Regina Tiedemann"
+            }
+        },
+        {
+            "name": "Julika Jenkins",
+            "character": {
+                "name": "Claudia Tiedemann (1987)"
+            }
+        },
+        {
+            "name": "Carlotta von Falkenhayn",
+            "character": {
+                "name": "Elisabeth Doppler"
+            }
+        },
+        {
+            "name": "Dietrich Hollinderbäumer",
+            "character": {
+                "name": "Adam"
+            }
+        },
+        {
+            "name": "Mark Waschke",
+            "character": {
+                "name": "Noah"
+            }
+        },
+        {
+            "name": "Hermann Beyer",
+            "character": {
+                "name": "Helge Doppler"
+            }
+        },
+        {
+            "name": "Lisa Kreuzer",
+            "character": {
+                "name": "Claudia Tiedemann"
+            }
+        },
+        {
+            "name": "Anne Ratte-Polle",
+            "character": {
+                "name": "Ines Kahnwald (1986)"
+            }
+        },
+        {
+            "name": "Walter Kreye",
+            "character": {
+                "name": "Tronte Nielsen"
+            }
+        },
+        {
+            "name": "Lydia Maria Makrides",
+            "character": {
+                "name": "Regina Tiedemann (1986)"
+            }
+        },
+        {
+            "name": "Tom Philipp",
+            "character": {
+                "name": "Helge Doppler (1953)"
+            }
+        },
+        {
+            "name": "Max Schimmelpfennig",
+            "character": {
+                "name": "Young Noah"
+            }
+        }
+    ],
+    "synopsis": "A family saga with a supernatural twist, set in a German town, where the disappearance of two young children exposes the relationships among four families.",
+    "collections": ["The World of Future"],
+    "awards": [
+        {
+            "title": "Jupyter",
+            "nominations": [
+                "Best German TV Actor"
+            ]
+        }
+    ],
+    "type": "Series",
+    "seasons": [
+        {
+            "season": 1,
+            "episodes": 10,
+            "trailer": "rrwycJ08PSA"
+        },
+        {
+            "season": 2,
+            "episodes": 8,
+            "trailer": "810CHvSdXOo"
+        },
+        {
+            "season": 3,
+            "episodes": 8,
+            "trailer": "cq2iTHoLrt0"
+        }
+    ],
+    "sort": 201712
+}

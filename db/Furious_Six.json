@@ -1,0 +1,115 @@
+{
+    "id": 50,
+    "title": "Furious Six",
+    "poster": "fast_and_furious_6",
+    "trailer": "dKi5XoeTN0k",
+    "genres": [
+        "Action",
+        "Crime"
+    ],
+    "production": [
+        "Universal Pictures"
+    ],
+    "director": "Justin Lin",
+    "producers": "Neal H. Moritz, Vin Diesel",
+    "writtens": "Chris Morgan",
+    "music": "Lucas Vidal",
+    "cinema": "Stephen F. Windon",
+    "year": 2013,
+    "time": 131,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 160,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 789,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Vin Diesel",
+            "character": {
+                "name": "Dominic Toretto"
+            }
+        },
+        {
+            "name": "Paul Walker",
+            "character": {
+                "name": "Brian O'Conner"
+            }
+        },
+        {
+            "name": "Dwayne Johnson",
+            "character": {
+                "name": "Hobbs"
+            }
+        },
+        {
+            "name": "Jordana Brewster",
+            "character": {
+                "name": "Mia"
+            }
+        },
+        {
+            "name": "Michelle Rodriguez",
+            "character": {
+                "name": "Letty"
+            }
+        },
+        {
+            "name": "Tyrese Gibson",
+            "character": {
+                "name": "Roman"
+            }
+        },
+        {
+            "name": "Sung Kang",
+            "character": {
+                "name": "Han"
+            }
+        },
+        {
+            "name": "Gal Gadot",
+            "character": {
+                "name": "Gisele"
+            }
+        },
+        {
+            "name": "Ludacris",
+            "character": {
+                "name": "Tej"
+            }
+        },
+        {
+            "name": "Luke Evans",
+            "character": {
+                "name": "Shaw"
+            }
+        },
+        {
+            "name": "Elsa Pataky",
+            "character": {
+                "name": "Elena"
+            }
+        }
+    ],
+    "synopsis": "Hobbs has Dominic and Brian reassemble their crew to take down a team of mercenaries: Dominic unexpectedly gets convoluted also facing his presumed deceased girlfriend, Letty.",
+    "collections": ["Cars and Speed"],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Action/Adventure Film"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Fast and Furious",
+        "part": 6
+    },
+    "type": "Film",
+    "sort": 201305
+}

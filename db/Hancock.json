@@ -1,0 +1,97 @@
+{
+    "id": 143,
+    "title": "Hancock",
+    "poster": "hancock",
+    "trailer": "SkX1VuXLRSc",
+    "genres": [
+        "Action",
+        "Comedy"
+    ],
+    "production": [
+        "Columbia Pictures"
+    ],
+    "director": "Peter Berg",
+    "producers": "Akiva Goldsman, James Lassiter, Michael Mann, Will Smith",
+    "writtens": "Vince Gilligan, Vincent Ngo",
+    "music": "John Powell",
+    "cinema": "Tobias A. Schliessler",
+    "year": 2008,
+    "time": 92,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 150,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 624,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Will Smith",
+            "character": {
+                "name": "John Hancock"
+            }
+        },
+        {
+            "name": "Charlize Theron",
+            "character": {
+                "name": "Mary"
+            }
+        },
+        {
+            "name": "Jason Bateman",
+            "character": {
+                "name": "Ray"
+            }
+        },
+        {
+            "name": "Jae Head",
+            "character": {
+                "name": "Aaron"
+            }
+        },
+        {
+            "name": "Eddie Marsan",
+            "character": {
+                "name": "Red"
+            }
+        },
+        {
+            "name": "David Mattey",
+            "character": {
+                "name": "Man Mountain"
+            }
+        },
+        {
+            "name": "Maetrix Fitten",
+            "character": {
+                "name": "Matrix"
+            }
+        },
+        {
+            "name": "Thomas Lennon",
+            "character": {
+                "name": "Mike"
+            }
+        },
+        {
+            "name": "Johnny Galecki",
+            "character": {
+                "name": "Jeremy"
+            }
+        },
+        {
+            "name": "Hayley Marie Norman",
+            "character": {
+                "name": "Hottie"
+            }
+        }
+    ],
+    "synopsis": "Hancock is a superhero whose ill considered behavior regularly causes damage in the millions. He changes when the person he saves helps him improve his public image.",
+    "collections": ["Superpower"],
+    "type": "Film",
+    "sort": 200807
+}

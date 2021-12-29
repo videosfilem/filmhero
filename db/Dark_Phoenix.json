@@ -1,0 +1,105 @@
+{
+    "id": 226,
+    "title": "Dark Phoenix",
+    "poster": "x_men_8",
+    "trailer": "1-q8C_c-nlM",
+    "genres": [
+        "Sci-Fi",
+        "Action"
+    ],
+    "production": [
+        "20th Century FOX"
+    ],
+    "director": "Simon Kinberg",
+    "producers": "Todd Hallowell, Simon Kinberg, Hutch Parker, Lauren Shuler Donner",
+    "writtens": "Simon Kinberg",
+    "music": "Hans Zimmer",
+    "cinema": "Mauro Fiore",
+    "year": 2019,
+    "time": 113,
+    "countries": [
+        "USA",
+        "Canada"
+    ],
+    "budget": {
+        "value": 200,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 252,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "James McAvoy",
+            "character": {
+                "name": "Charles Xavier",
+                "poster": "professor-x"
+            }
+        },
+        {
+            "name": "Michael Fassbender",
+            "character": {
+                "name": "Erik Lehnsherr / Magneto",
+                "poster": "magneto"
+            }
+        },
+        {
+            "name": "Jennifer Lawrence",
+            "character": {
+                "name": "Raven / Mystique",
+                "poster": "mystique"
+            }
+        },
+        {
+            "name": "Nicholas Hoult",
+            "character": {
+                "name": "Hank McCoy / Beast",
+                "poster": "beast"
+            }
+        },
+        {
+            "name": "Sophie Turner",
+            "character": {
+                "name": "Jean Grey / Phoenix",
+                "poster": "jean-gray"
+            }
+        },
+        {
+            "name": "Tye Sheridan",
+            "character": {
+                "name": "Scott Summers / Cyclops",
+                "poster": "cyclops"
+            }
+        },
+        {
+            "name": "Alexandra Shipp",
+            "character": {
+                "name": "Ororo Munroe / Storm",
+                "poster": "storm"
+            }
+        },
+        {
+            "name": "Evan Peters",
+            "character": {
+                "name": "Peter Maximoff / Quicksilver",
+                "poster": "quicksilver"
+            }
+        },
+        {
+            "name": "Kodi Smit-McPhee",
+            "character": {
+                "name": "Kurt Wagner / Nightcrawler",
+                "poster": "nightcrawler"
+            }
+        }
+    ],
+    "synopsis": "Jean Grey begins to develop incredible powers that corrupt and turn her into a Dark Phoenix, causing the X-Men to decide if her life is worth more than all of humanity.",
+    "collections": ["Superpower"],
+    "parts": {
+        "title": "X-Men",
+        "part": 10
+    },
+    "type": "Film",
+    "sort": 201906
+}

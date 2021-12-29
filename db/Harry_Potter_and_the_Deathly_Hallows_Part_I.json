@@ -1,0 +1,95 @@
+{
+    "id": 43,
+    "title": "Harry Potter and the Deathly Hallows: Part I",
+    "poster": "harry_potter_7",
+    "trailer": "MxqsmsA8y5k",
+    "genres": [
+        "Fantasy",
+        "Adventures"
+    ],
+    "production": [
+        "Warner Bros. Pictures"
+    ],
+    "director": "David Yates",
+    "producers": "David Heyman, David Barron, J.K.Rowling",
+    "writtens": "Steve Kloves",
+    "music": "Alexandre Desplat",
+    "cinema": "Eduardo Serra",
+    "year": 2010,
+    "time": 146,
+    "countries": [
+        "USA",
+        "UK"
+    ],
+    "budget": {
+        "value": 250,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 960,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Daniel Radcliffe",
+            "character": {
+                "name": "Harry Potter",
+                "poster": "harry-potter"
+            }
+        },
+        {
+            "name": "Rupert Grint",
+            "character": {
+                "name": "Ron Weasley",
+                "poster": "ron"
+            }
+        },
+        {
+            "name": "Emma Watson",
+            "character": {
+                "name": "Hermione Granger",
+                "poster": "hermione"
+            }
+        },
+        {
+            "name": "Ralph Fiennes",
+            "character": {
+                "name": "Lord Voldemort",
+                "poster": "voldemort"
+            }
+        },
+        {
+            "name": "Robbie Coltrane",
+            "character": {
+                "name": "Rubeus Hagrid"
+            }
+        },
+        {
+            "name": "Tom Felton",
+            "character": {
+                "name": "Draco Malfoy",
+                "poster": "draco"
+            }
+        },
+        {
+            "name": "Alan Rickman",
+            "character": {
+                "name": "Severus Snape",
+                "poster": "severus"
+            }
+        },
+        {
+            "name": "Helena Bonham Carter",
+            "character": {
+                "name": "Bellatrix Lestrage"
+            }
+        }
+    ],
+    "synopsis": "As Harry races against time and evil to destroy the Horcruxes, he uncovers the existence of three most powerful objects in the wizarding world: the Deathly Hallows.",
+    "parts": {
+        "title": "Harry Potter Universe",
+        "part": 7
+    },
+    "type": "Film",
+    "sort": 201011
+}

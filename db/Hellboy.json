@@ -1,0 +1,109 @@
+{
+    "id": 173,
+    "title": "Hellboy",
+    "poster": "hellboy_1",
+    "trailer": "kA9vtXbbhVs",
+    "genres": [
+        "Fantasy",
+        "Action"
+    ],
+    "production": [
+        "Columbia Pictures"
+    ],
+    "director": "Guillermo del Toro",
+    "producers": "Lawrence Gordon, Mike Richardson, Lloyd Levin",
+    "writtens": "Guillermo del Toro",
+    "music": "Marco Beltrami",
+    "cinema": "Guillermo Navarro",
+    "year": 2004,
+    "time": 122,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 66,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 99,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Ron Perlman",
+            "character": {
+                "name": "Hellboy"
+            }
+        },
+        {
+            "name": "John Hurt",
+            "character": {
+                "name": "Trevor Bruttenholm"
+            }
+        },
+        {
+            "name": "Selma Blair",
+            "character": {
+                "name": "Liz Sherman"
+            }
+        },
+        {
+            "name": "Rupert Evans",
+            "character": {
+                "name": "John Myers"
+            }
+        },
+        {
+            "name": "Karel Roden",
+            "character": {
+                "name": "Grigori Rasputin"
+            }
+        },
+        {
+            "name": "Jeffrey Tambor",
+            "character": {
+                "name": "Tom Manning"
+            }
+        },
+        {
+            "name": "Doug Jones",
+            "character": {
+                "name": "Abe Sapien"
+            }
+        },
+        {
+            "name": "Brian Steele",
+            "character": {
+                "name": "Sammael"
+            }
+        },
+        {
+            "name": "Ladislav Beran",
+            "character": {
+                "name": "Karl Ruprecht Kroenen"
+            }
+        },
+        {
+            "name": "Biddy Hodson",
+            "character": {
+                "name": "Ilsa Haupstein"
+            }
+        }
+    ],
+    "synopsis": "A demon, raised from infancy after being conjured by and rescued from the Nazis, grows up to become a defender against the forces of darkness.",
+    "collections": ["Superpower"],
+    "awards": [
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Make-Up"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "del Toro's Hellboy",
+        "part": 1
+    },
+    "type": "Film",
+    "sort": 200403
+}

@@ -1,0 +1,103 @@
+{
+    "id": 40,
+    "title": "Harry Potter and the Goblet of Fire",
+    "poster": "harry_potter_4",
+    "trailer": "3EGojp4Hh6I",
+    "genres": [
+        "Fantasy",
+        "Adventures"
+    ],
+    "production": [
+        "Warner Bros. Pictures"
+    ],
+    "director": "Mike Newell",
+    "producers": "David Heyman",
+    "writtens": "Steve Kloves",
+    "music": "Patrick Doyle",
+    "cinema": "Roger Pratt",
+    "year": 2005,
+    "time": 157,
+    "countries": [
+        "USA",
+        "UK"
+    ],
+    "budget": {
+        "value": 150,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 897,
+        "suffix": "illionm"
+    },
+    "actors": [
+        {
+            "name": "Daniel Radcliffe",
+            "character": {
+                "name": "Harry Potter"
+            }
+        },
+        {
+            "name": "Rupert Grint",
+            "character": {
+                "name": "Ron Weasley"
+            }
+        },
+        {
+            "name": "Emma Watson",
+            "character": {
+                "name": "Hermione Granger"
+            }
+        },
+        {
+            "name": "Robert Pattinson",
+            "character": {
+                "name": "Cedric Diggory"
+            }
+        },
+        {
+            "name": "Ralph Fiennes",
+            "character": {
+                "name": "Lord Voldemort"
+            }
+        },
+        {
+            "name": "Richard Harris",
+            "character": {
+                "name": "Albus Dumbledore"
+            }
+        },
+        {
+            "name": "Robbie Coltrane",
+            "character": {
+                "name": "Rubeus Hagrid"
+            }
+        },
+        {
+            "name": "Tom Felton",
+            "character": {
+                "name": "Draco Malfoy"
+            }
+        },
+        {
+            "name": "Alan Rickman",
+            "character": {
+                "name": "Severus Snape"
+            }
+        }
+    ],
+    "synopsis": "A young wizard finds himself competing in a hazardous tournament between rival schools of magic, but he is distracted by recurring nightmares.",
+    "awards": [
+        {
+            "title": "BAFTA",
+            "nominations": [
+                "Best Production Design"
+            ]
+        }
+    ],
+    "parts": {
+        "title": "Harry Potter Universe",
+        "part": 4
+    },
+    "type": "Film",
+    "sort": 200511
+}

@@ -1,0 +1,102 @@
+{
+    "id": 164,
+    "title": "Aquaman",
+    "poster": "aquaman",
+    "trailer": "WDkg3h8PCVU",
+    "genres": [
+        "Fantasy",
+        "Adventures"
+    ],
+    "production": [
+        "DC Entertainment",
+        "Warner Bros. Pictures"
+    ],
+    "director": "James Wan",
+    "producers": "Peter Safran, Rob Cowan",
+    "writtens": "David Leslie Johnson-McGoldrick, Will Beall",
+    "music": "Rupert Gregson-Williams",
+    "cinema": "Don Burgess",
+    "year": 2018,
+    "time": 143,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 160,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 1.15,
+        "suffix": "billion"
+    },
+    "actors": [
+        {
+            "name": "Jason Momoa",
+            "character": {
+                "name": "Arthur Curry / Aquaman",
+                "poster": "aquaman"
+            }
+        },
+        {
+            "name": "Amber Heard",
+            "character": {
+                "name": "Mera",
+                "poster": "mera"
+            }
+        },
+        {
+            "name": "Willem Dafoe",
+            "character": {
+                "name": "Vulko",
+                "poster": "vulko"
+            }
+        },
+        {
+            "name": "Patrick Wilson",
+            "character": {
+                "name": "King Orm",
+                "poster": "orm"
+            }
+        },
+        {
+            "name": "Nicole Kidman",
+            "character": {
+                "name": "Queen Atlanna",
+                "poster": "atlanna"
+            }
+        },
+        {
+            "name": "Dolph Lundgren",
+            "character": {
+                "name": "King Nereus",
+                "poster": "nereus"
+            }
+        },
+        {
+            "name": "Yahya Abdul-Mateen II",
+            "character": {
+                "name": "Black Manta",
+                "poster": "manta"
+            }
+        },
+        {
+            "name": "Temuera Morrison",
+            "character": {
+                "name": "Tom Curry"
+            }
+        },
+        {
+            "name": "Ludi Lin",
+            "character": {
+                "name": "Captain Murk"
+            }
+        }
+    ],
+    "synopsis": "Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land.",
+    "parts": {
+        "title": "DC Extended Universe",
+        "part": 6
+    },
+    "type": "Film",
+    "sort": 201811
+}

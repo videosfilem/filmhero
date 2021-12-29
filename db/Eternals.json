@@ -1,0 +1,127 @@
+{
+    "id": 201,
+    "title": "Eternals",
+    "poster": "eternals",
+    "trailer": "x_me3xsvDgk",
+    "genres": [
+        "Adventures",
+        "Action",
+        "Drama"
+    ],
+    "production": [
+        "Marvel Studios",
+        "Walt Disney Pictures"
+    ],
+    "director": "Chloe Zhao",
+    "producers": "Kevin Feige, Nate Moore",
+    "writtens": "Chloe Zhao, Patrick Burleigh, Ryan Firpo, Kaz Firpo",
+    "music": "Ramin Djawadi",
+    "cinema": "Ben Davis",
+    "year": 2021,
+    "time": 100,
+    "budget": {
+        "value": 200,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 281,
+        "suffix": "million"
+    },
+    "countries": [
+        "USA",
+        "UK"
+    ],
+    "actors": [
+        {
+            "name": "Richard Madden",
+            "character": {
+                "name": "Ikaris",
+                "poster": "ikaris"
+            }
+        },
+        {
+            "name": "Salma Hayek",
+            "character": {
+                "name": "Ajak",
+                "poster": "ajak"
+            }
+        },
+        {
+            "name": "Angelina Jolie",
+            "character": {
+                "name": "Thena",
+                "poster": "thena"
+            }
+        },
+        {
+            "name": "Kit Harington",
+            "character": {
+                "name": "Dane Whitman / Black Knight",
+                "poster": "dane"
+            }
+        },
+        {
+            "name": "Gemma Chan",
+            "character": {
+                "name": "Sersi",
+                "poster": "sersi"
+            }
+        },
+        {
+            "name": "Barry Keoghan",
+            "character": {
+                "name": "Druig",
+                "poster": "druig"
+            }
+        },
+        {
+            "name": "Lia McHugh",
+            "character": {
+                "name": "Sprite",
+                "poster": "sprite"
+            }
+        },
+        {
+            "name": "Brian Tyree Henry",
+            "character": {
+                "name": "Phastos",
+                "poster": "phastos"
+            }
+        },
+        {
+            "name": "Kumail Nanjiani",
+            "character": {
+                "name": "Kingo",
+                "poster": "kingo"
+            }
+        },
+        {
+            "name": "Lauren Ridloff",
+            "character": {
+                "name": "Makkari",
+                "poster": "makkari"
+            }
+        },
+        {
+            "name": "Ma Dong Seok",
+            "character": {
+                "name": "Gilgamesh",
+                "poster": "gilgamesh"
+            }
+        },
+        {
+            "name": "Harish Patel",
+            "character": {
+                "name": "Karun",
+                "poster": "karun"
+            }
+        }
+    ],
+    "synopsis": "The saga of the Eternals, a race of immortal beings who lived on Earth and shaped its history and civilizations.",
+    "parts": {
+        "title": "Marvel Cinematic Universe",
+        "part": 28
+    },
+    "type": "Film",
+    "sort": 202111
+}

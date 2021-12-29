@@ -1,0 +1,105 @@
+{
+    "id": 183,
+    "title": "Finding Nemo",
+    "poster": "finding_nemo",
+    "trailer": "wZdpNglLbt8",
+    "genres": [
+        "Adventures"
+    ],
+    "production": [
+        "Walt Disney Pictures",
+        "Pixar Animation"
+    ],
+    "director": "Andrew Stanton",
+    "producers": "Graham Walters",
+    "writtens": "Andrew Stanton, Bob Peterson, David Reynolds",
+    "music": "Thomas Newman",
+    "cinema": "Sharon Calahan, Jeremy Lasky",
+    "year": 2003,
+    "time": 100,
+    "countries": [
+        "USA"
+    ],
+    "budget": {
+        "value": 94,
+        "suffix": "million"
+    },
+    "boxoffice": {
+        "value": 940,
+        "suffix": "million"
+    },
+    "actors": [
+        {
+            "name": "Alexander Gould",
+            "character": {
+                "name": "Nemo"
+            }
+        },
+        {
+            "name": "Albert Brooks",
+            "character": {
+                "name": "Marlin"
+            }
+        },
+        {
+            "name": "Ellen DeGeneres",
+            "character": {
+                "name": "Dory"
+            }
+        },
+        {
+            "name": "Willem Dafoe",
+            "character": {
+                "name": "Gill"
+            }
+        },
+        {
+            "name": "Brad Garrett",
+            "character": {
+                "name": "Bloat"
+            }
+        },
+        {
+            "name": "Allison Janney",
+            "character": {
+                "name": "Peach"
+            }
+        },
+        {
+            "name": "Austin Pendleton",
+            "character": {
+                "name": "Gurgle"
+            }
+        },
+        {
+            "name": "Stephen Root",
+            "character": {
+                "name": "Bubbles"
+            }
+        }
+    ],
+    "synopsis": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+    "awards": [
+        {
+            "title": "Oscar",
+            "nominations": [
+                "Best Animated Feature"
+            ]
+        },
+        {
+            "title": "Saturn",
+            "nominations": [
+                "Best Animated Film",
+                "Best Supporting Actress"
+            ]
+        },
+        {
+            "title": "Critics Choice Award",
+            "nominations": [
+                "Best Animated Feature"
+            ]
+        }
+    ],
+    "type": "Animation",
+    "sort": 200305
+}
